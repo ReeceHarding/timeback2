@@ -1,0 +1,1042 @@
+,Campus,Level,Age Grade,Student,Subject,Spring 23-24 RIT Score,Fall 24-25 RIT Score,Winter 24-25 RIT Score,Spring 2425 RIT Score [max if multiple available]
+1209,Alpha Miami,L1,3,Asher Hazard,Reading,,,,222.0
+1209,Alpha Miami,L1,3,Asher Hazard,Math,,,,217.0
+1209,Alpha Miami,L1,3,Asher Hazard,Language,,,,222.0
+1209,Alpha Miami,L1,3,Asher Hazard,Science,,,,213.0
+0896,Alpha Miami,L1,4,Juan Diego Ortega,Reading,,,209,214.0
+0896,Alpha Miami,L1,4,Juan Diego Ortega,Math,,,201,203.0
+0896,Alpha Miami,L1,4,Juan Diego Ortega,Language,,,202,204.0
+0896,Alpha Miami,L1,4,Juan Diego Ortega,Science,,,211,207.0
+0741,Alpha Miami,L1,3,Luna Montagna,Reading,,176,190,201.0
+0741,Alpha Miami,L1,3,Luna Montagna,Math,,185,199,205.0
+0741,Alpha Miami,L1,3,Luna Montagna,Language,,172,188,187.0
+0741,Alpha Miami,L1,3,Luna Montagna,Science,,183,191,187.0
+0717,Alpha Miami,L2,6,Bella Barba,Reading,,224,229,234.0
+0717,Alpha Miami,L2,6,Bella Barba,Math,,220,232,244.0
+0717,Alpha Miami,L2,6,Bella Barba,Language,,217,230,231.0
+0717,Alpha Miami,L2,6,Bella Barba,Science,,212,220,222.0
+0743,Alpha Miami,L2,5,Jason Montagna,Reading,,231,229,229.0
+0743,Alpha Miami,L2,5,Jason Montagna,Math,,216,221,225.0
+0743,Alpha Miami,L2,5,Jason Montagna,Language,,225,230,224.0
+0743,Alpha Miami,L2,5,Jason Montagna,Science,,219,222,228.0
+1224,Alpha Miami,L2,5,Ozzie Lowe,Reading,,,,222.0
+1224,Alpha Miami,L2,5,Ozzie Lowe,Math,,,,236.0
+1224,Alpha Miami,L2,5,Ozzie Lowe,Language,,,,
+1224,Alpha Miami,L2,5,Ozzie Lowe,Science,,,,
+0772,Alpha Miami,L3,7,Penny Marty,Reading,,234,234,238.0
+0772,Alpha Miami,L3,7,Penny Marty,Math,,226,231,231.0
+0772,Alpha Miami,L3,7,Penny Marty,Language,,226,231,241.0
+0772,Alpha Miami,L3,7,Penny Marty,Science,,206,215,215.0
+0734,Alpha Miami,L3,8,Sydney Barba,Reading,,235,237,249.0
+0734,Alpha Miami,L3,8,Sydney Barba,Math,,220,244,252.0
+0734,Alpha Miami,L3,8,Sydney Barba,Language,,223,236,239.0
+0734,Alpha Miami,L3,8,Sydney Barba,Science,,218,228,233.0
+0853,Alpha Miami,LL,K,Jeronimo Cardenas Garcia,Reading,,,145,161.0
+0853,Alpha Miami,LL,K,Jeronimo Cardenas Garcia,Math,,,146,166.0
+0742,Alpha Miami,LL,1,Leo Montagna,Reading,,152,157,178.0
+0742,Alpha Miami,LL,1,Leo Montagna,Math,,164,166,178.0
+0838,Alpha Miami,LL,1,Magnus Liodden,Reading,,,175,185.0
+0838,Alpha Miami,LL,1,Magnus Liodden,Math,,,181,197.0
+0847,Alpha Miami,LL,K,Matthew Royer,Reading,,,,
+0847,Alpha Miami,LL,K,Matthew Royer,Math,,,,
+1229,Alpha Miami,LL,1,Olivia Monsalve Bonotto,Reading,,,,179.0
+1229,Alpha Miami,LL,1,Olivia Monsalve Bonotto,Math,,,,187.0
+0766,Alpha Miami,LL,K,Sai Shah,Reading,,147,167,164.0
+0766,Alpha Miami,LL,K,Sai Shah,Math,,158,162,167.0
+0692,Austin K-8,L1,3,Aleina Boyce,Reading,,200,207,214.0
+0692,Austin K-8,L1,3,Aleina Boyce,Math,,200,211,212.0
+0692,Austin K-8,L1,3,Aleina Boyce,Language,,202,208,207.0
+0692,Austin K-8,L1,3,Aleina Boyce,Science,,195,216,204.0
+0863,Austin K-8,L1,4,Alessandra Green,Reading,,,227,235.0
+0863,Austin K-8,L1,4,Alessandra Green,Math,,,223,235.0
+0863,Austin K-8,L1,4,Alessandra Green,Language,,,227,230.0
+0863,Austin K-8,L1,4,Alessandra Green,Science,,,222,228.0
+0397,Austin K-8,L1,3,Alyan Slizza,Reading,215,217,217,220.0
+0397,Austin K-8,L1,3,Alyan Slizza,Math,199,200,207,210.0
+0397,Austin K-8,L1,3,Alyan Slizza,Language,216,207,217,220.0
+0397,Austin K-8,L1,3,Alyan Slizza,Science,194,,204,213.0
+0561,Austin K-8,L1,4,Anaya Lenington,Reading,212,207,222,225.0
+0561,Austin K-8,L1,4,Anaya Lenington,Math,205,200,221,220.0
+0561,Austin K-8,L1,4,Anaya Lenington,Language,199,197,216,218.0
+0561,Austin K-8,L1,4,Anaya Lenington,Science,197,196,209,214.0
+0759,Austin K-8,L1,4,Arjun Caberwal,Reading,,223,234,239.0
+0759,Austin K-8,L1,4,Arjun Caberwal,Math,,214,224,227.0
+0759,Austin K-8,L1,4,Arjun Caberwal,Language,,223,233,233.0
+0759,Austin K-8,L1,4,Arjun Caberwal,Science,,215,219,225.0
+0758,Austin K-8,L1,4,Arman Caberwal,Reading,,222,229,232.0
+0758,Austin K-8,L1,4,Arman Caberwal,Math,,206,220,227.0
+0758,Austin K-8,L1,4,Arman Caberwal,Language,,215,224,232.0
+0758,Austin K-8,L1,4,Arman Caberwal,Science,,203,220,220.0
+0189,Austin K-8,L1,3,Atlas Kloiber,Reading,212,210,220,223.0
+0189,Austin K-8,L1,3,Atlas Kloiber,Math,213,211,224,223.0
+0189,Austin K-8,L1,3,Atlas Kloiber,Language,214,204,219,220.0
+0189,Austin K-8,L1,3,Atlas Kloiber,Science,207,,214,219.0
+0259,Austin K-8,L1,3,Aubrey Curtis,Reading,223,219,222,228.0
+0259,Austin K-8,L1,3,Aubrey Curtis,Math,217,218,221,231.0
+0259,Austin K-8,L1,3,Aubrey Curtis,Language,216,214,218,228.0
+0259,Austin K-8,L1,3,Aubrey Curtis,Science,206,214,218,218.0
+1225,Austin K-8,L1,3,Brady York,Reading,,,,225.0
+1225,Austin K-8,L1,3,Brady York,Math,,,,231.0
+1225,Austin K-8,L1,3,Brady York,Language,,,,236.0
+1225,Austin K-8,L1,3,Brady York,Science,,,,222.0
+0394,Austin K-8,L1,3,Brooke Tracy,Reading,205,,216,222.0
+0394,Austin K-8,L1,3,Brooke Tracy,Math,182,181,197,204.0
+0394,Austin K-8,L1,3,Brooke Tracy,Language,184,193,209,209.0
+0394,Austin K-8,L1,3,Brooke Tracy,Science,201,,,201.0
+0583,Austin K-8,L1,3,Claudia Hobart,Reading,224,223,232,239.0
+0583,Austin K-8,L1,3,Claudia Hobart,Math,230,234,248,260.0
+0583,Austin K-8,L1,3,Claudia Hobart,Language,225,223,235,243.0
+0583,Austin K-8,L1,3,Claudia Hobart,Science,,213,227,225.0
+0711,Austin K-8,L1,4,D'sean Harden II,Reading,,210,217,215.0
+0711,Austin K-8,L1,4,D'sean Harden II,Math,,199,207,217.0
+0711,Austin K-8,L1,4,D'sean Harden II,Language,,203,205,223.0
+0711,Austin K-8,L1,4,D'sean Harden II,Science,,208,208,211.0
+0634,Austin K-8,L1,3,David Nolan,Reading,204,206,213,224.0
+0634,Austin K-8,L1,3,David Nolan,Math,202,202,214,220.0
+0634,Austin K-8,L1,3,David Nolan,Language,199,200,208,212.0
+0634,Austin K-8,L1,3,David Nolan,Science,197,,206,212.0
+0672,Austin K-8,L1,3,David Paul,Reading,,214,224,222.0
+0672,Austin K-8,L1,3,David Paul,Math,,209,222,232.0
+0672,Austin K-8,L1,3,David Paul,Language,,213,216,222.0
+0672,Austin K-8,L1,3,David Paul,Science,,206,221,218.0
+0693,Austin K-8,L1,4,Donnie Moore,Reading,,198,218,219.0
+0693,Austin K-8,L1,4,Donnie Moore,Math,,201,219,221.0
+0693,Austin K-8,L1,4,Donnie Moore,Language,,198,213,226.0
+0693,Austin K-8,L1,4,Donnie Moore,Science,,200,216,211.0
+0144,Austin K-8,L1,4,Elaina Robertson,Reading,225,218,230,239.0
+0144,Austin K-8,L1,4,Elaina Robertson,Math,219,206,217,231.0
+0144,Austin K-8,L1,4,Elaina Robertson,Language,221,213,226,235.0
+0144,Austin K-8,L1,4,Elaina Robertson,Science,219,214,225,225.0
+0478,Austin K-8,L1,3,George Troxell,Reading,215,209,219,215.0
+0478,Austin K-8,L1,3,George Troxell,Math,213,199,208,218.0
+0478,Austin K-8,L1,3,George Troxell,Language,204,200,207,215.0
+0478,Austin K-8,L1,3,George Troxell,Science,213,,211,223.0
+0275,Austin K-8,L1,4,Hazel Salton,Reading,228,224,218,227.0
+0275,Austin K-8,L1,4,Hazel Salton,Math,207,208,219,214.0
+0275,Austin K-8,L1,4,Hazel Salton,Language,216,216,220,218.0
+0275,Austin K-8,L1,4,Hazel Salton,Science,210,207,211,214.0
+1211,Austin K-8,L1,3,Ian Mentgen,Reading,,,218,232.0
+1211,Austin K-8,L1,3,Ian Mentgen,Math,,,226,238.0
+1211,Austin K-8,L1,3,Ian Mentgen,Language,,,,227.0
+1211,Austin K-8,L1,3,Ian Mentgen,Science,,,,228.0
+0584,Austin K-8,L1,3,Izzy Moncure,Reading,217,207,220,229.0
+0584,Austin K-8,L1,3,Izzy Moncure,Math,209,213,220,226.0
+0584,Austin K-8,L1,3,Izzy Moncure,Language,209,213,214,224.0
+0584,Austin K-8,L1,3,Izzy Moncure,Science,211,208,212,223.0
+0475,Austin K-8,L1,4,Jaxon Siers,Reading,220,223,232,229.0
+0475,Austin K-8,L1,4,Jaxon Siers,Math,227,218,232,242.0
+0475,Austin K-8,L1,4,Jaxon Siers,Language,221,215,227,230.0
+0475,Austin K-8,L1,4,Jaxon Siers,Science,216,211,218,232.0
+0617,Austin K-8,L1,4,Kira Fuerst,Reading,,210,217,
+0617,Austin K-8,L1,4,Kira Fuerst,Math,,208,216,
+0617,Austin K-8,L1,4,Kira Fuerst,Language,,210,211,
+0617,Austin K-8,L1,4,Kira Fuerst,Science,,207,215,
+2595,Austin K-8,L1,3,Lauren Harden,Reading,,,,
+2595,Austin K-8,L1,3,Lauren Harden,Math,,,,
+2595,Austin K-8,L1,3,Lauren Harden,Language,,,,
+2595,Austin K-8,L1,3,Lauren Harden,Science,,,,
+0474,Austin K-8,L1,4,Lukas Siers,Reading,198,198,210,214.0
+0474,Austin K-8,L1,4,Lukas Siers,Math,209,212,219,221.0
+0474,Austin K-8,L1,4,Lukas Siers,Language,191,206,202,209.0
+0474,Austin K-8,L1,4,Lukas Siers,Science,214,208,207,212.0
+2521,#N/A,#N/A,#N/A,#N/A,Reading,,,,
+2521,#N/A,#N/A,#N/A,#N/A,Math,,,,
+2521,#N/A,#N/A,#N/A,#N/A,Language,,,,
+1866,Austin K-8,L1,4,Marco Iorgulescu,Reading,,,,
+1866,Austin K-8,L1,4,Marco Iorgulescu,Math,,,,
+1866,Austin K-8,L1,4,Marco Iorgulescu,Language,,,,
+1866,Austin K-8,L1,4,Marco Iorgulescu,Science,,,,
+0239,Austin K-8,L1,3,Max Vaughan,Reading,224,219,225,228.0
+0239,Austin K-8,L1,3,Max Vaughan,Math,210,210,217,225.0
+0239,Austin K-8,L1,3,Max Vaughan,Language,221,209,217,221.0
+0239,Austin K-8,L1,3,Max Vaughan,Science,219,,225,229.0
+0130,Austin K-8,L1,4,Miles Kozun,Reading,221,215,230,228.0
+0130,Austin K-8,L1,4,Miles Kozun,Math,210,209,215,214.0
+0130,Austin K-8,L1,4,Miles Kozun,Language,212,211,229,216.0
+0130,Austin K-8,L1,4,Miles Kozun,Science,219,208,219,219.0
+0368,Austin K-8,L1,2,Reed Robertson,Reading,211,203,211,217.0
+0368,Austin K-8,L1,2,Reed Robertson,Math,216,213,219,231.0
+0368,Austin K-8,L1,2,Reed Robertson,Language,204,201,208,223.0
+0368,Austin K-8,L1,2,Reed Robertson,Science,,,202,214.0
+0300,Austin K-8,L1,3,Sophia Reicher,Reading,231,230,234,236.0
+0300,Austin K-8,L1,3,Sophia Reicher,Math,228,222,233,245.0
+0300,Austin K-8,L1,3,Sophia Reicher,Language,232,235,244,245.0
+0300,Austin K-8,L1,3,Sophia Reicher,Science,222,226,228,232.0
+0150,Austin K-8,L1,4,Tate Price,Reading,221,229,236,232.0
+0150,Austin K-8,L1,4,Tate Price,Math,231,228,243,256.0
+0150,Austin K-8,L1,4,Tate Price,Language,224,226,229,231.0
+0150,Austin K-8,L1,4,Tate Price,Science,214,216,222,235.0
+0571,Austin K-8,L1,3,Wyatt Signor,Reading,197,201,212,222.0
+0571,Austin K-8,L1,3,Wyatt Signor,Math,204,198,208,221.0
+0571,Austin K-8,L1,3,Wyatt Signor,Language,201,196,206,217.0
+0571,Austin K-8,L1,3,Wyatt Signor,Science,185,,207,215.0
+0156,Austin K-8,L1,4,Zion Clark,Reading,210,211,228,232.0
+0156,Austin K-8,L1,4,Zion Clark,Math,210,213,224,230.0
+0156,Austin K-8,L1,4,Zion Clark,Language,216,206,216,227.0
+0156,Austin K-8,L1,4,Zion Clark,Science,218,203,221,217.0
+0343,Austin K-8,L2,5,Armin Rouwet,Reading,231,229,231,236.0
+0343,Austin K-8,L2,5,Armin Rouwet,Math,225,216,238,232.0
+0343,Austin K-8,L2,5,Armin Rouwet,Language,222,212,221,225.0
+0343,Austin K-8,L2,5,Armin Rouwet,Science,221,218,226,226.0
+0481,Austin K-8,L2,6,Asha Nagar,Reading,241,233,235,236.0
+0481,Austin K-8,L2,6,Asha Nagar,Math,241,240,237,246.0
+0481,Austin K-8,L2,6,Asha Nagar,Language,227,230,229,235.0
+0481,Austin K-8,L2,6,Asha Nagar,Science,233,230,226,232.0
+2275,Austin K-8,L2,4,Beau Stern,Reading,,,,232.0
+2275,Austin K-8,L2,4,Beau Stern,Math,,,,229.0
+2275,Austin K-8,L2,4,Beau Stern,Language,,,,223.0
+0577,Austin K-8,L2,6,Blake Flores,Reading,216,220,224,222.0
+0577,Austin K-8,L2,6,Blake Flores,Math,234,228,232,245.0
+0577,Austin K-8,L2,6,Blake Flores,Language,213,213,218,225.0
+0577,Austin K-8,L2,6,Blake Flores,Science,219,215,222,222.0
+0963,Austin K-8,L1,4,Brooklyn Allred,Reading,,,209,215.0
+0963,Austin K-8,L1,4,Brooklyn Allred,Math,,,209,215.0
+0963,Austin K-8,L1,4,Brooklyn Allred,Language,,,211,214.0
+0963,Austin K-8,L1,4,Brooklyn Allred,Science,,,207,212.0
+0436,Austin K-8,L2,6,Byron Attridge,Reading,240,229,238,241.0
+0436,Austin K-8,L2,6,Byron Attridge,Math,242,246,252,252.0
+0436,Austin K-8,L2,6,Byron Attridge,Language,242,241,241,243.0
+0436,Austin K-8,L2,6,Byron Attridge,Science,240,237,234,241.0
+0674,Austin K-8,L2,5,Connor Cason,Reading,200,193,214,219.0
+0674,Austin K-8,L2,5,Connor Cason,Math,198,195,205,212.0
+0674,Austin K-8,L2,5,Connor Cason,Language,197,196,212,215.0
+0674,Austin K-8,L2,5,Connor Cason,Science,196,195,205,214.0
+0694,Austin K-8,L2,6,Dario Poyatos Ramos,Reading,,227,229,234.0
+0694,Austin K-8,L2,6,Dario Poyatos Ramos,Math,,228,230,236.0
+0694,Austin K-8,L2,6,Dario Poyatos Ramos,Language,,211,225,234.0
+0694,Austin K-8,L2,6,Dario Poyatos Ramos,Science,,222,226,227.0
+0408,Austin K-8,L2,4,Duke Ajouz,Reading,230,228,236,236.0
+0408,Austin K-8,L2,4,Duke Ajouz,Math,220,222,233,231.0
+0408,Austin K-8,L2,4,Duke Ajouz,Language,221,211,229,227.0
+0408,Austin K-8,L2,4,Duke Ajouz,Science,223,218,227,230.0
+0445,Austin K-8,L2,6,Eddie Margain-Junco,Reading,239,238,241,235.0
+0445,Austin K-8,L2,6,Eddie Margain-Junco,Math,237,230,234,241.0
+0445,Austin K-8,L2,6,Eddie Margain-Junco,Language,238,229,228,232.0
+0445,Austin K-8,L2,6,Eddie Margain-Junco,Science,234,234,234,242.0
+0428,Austin K-8,L2,5,Edgar Shinar,Reading,,227,234,240.0
+0428,Austin K-8,L2,5,Edgar Shinar,Math,,226,233,232.0
+0428,Austin K-8,L2,5,Edgar Shinar,Language,,229,230,236.0
+0428,Austin K-8,L2,5,Edgar Shinar,Science,,210,216,225.0
+0862,Austin K-8,L2,6,Electra Green,Reading,,,235,247.0
+0862,Austin K-8,L2,6,Electra Green,Math,,,240,252.0
+0862,Austin K-8,L2,6,Electra Green,Language,,,232,238.0
+0862,Austin K-8,L2,6,Electra Green,Science,,,231,246.0
+1212,Austin K-8,L2,5,Elena Mentgen,Reading,,,230,235.0
+1212,Austin K-8,L2,5,Elena Mentgen,Math,,,244,242.0
+1212,Austin K-8,L2,5,Elena Mentgen,Language,,,,233.0
+1212,Austin K-8,L2,5,Elena Mentgen,Science,,,220,222.0
+0917,Austin K-8,L2,5,Ellen Meegan,Reading,,,222,227.0
+0917,Austin K-8,L2,5,Ellen Meegan,Math,,,229,230.0
+0917,Austin K-8,L2,5,Ellen Meegan,Language,,,219,225.0
+0917,Austin K-8,L2,5,Ellen Meegan,Science,,,221,225.0
+0469,Austin K-8,L2,6,Kai Sticker,Reading,238,236,245,243.0
+0469,Austin K-8,L2,6,Kai Sticker,Math,255,247,262,254.0
+0469,Austin K-8,L2,6,Kai Sticker,Language,241,244,245,250.0
+0469,Austin K-8,L2,6,Kai Sticker,Science,238,237,238,242.0
+0859,Austin K-8,L2,5,Kaiden Szpitalak,Reading,,,231,238.0
+0859,Austin K-8,L2,5,Kaiden Szpitalak,Math,,,229,237.0
+0859,Austin K-8,L2,5,Kaiden Szpitalak,Language,,,227,224.0
+0859,Austin K-8,L2,5,Kaiden Szpitalak,Science,,,225,223.0
+0695,Austin K-8,L2,6,Love Lalla-Pagan,Reading,,235,252,254.0
+0695,Austin K-8,L2,6,Love Lalla-Pagan,Math,,253,252,264.0
+0695,Austin K-8,L2,6,Love Lalla-Pagan,Language,,237,251,263.0
+0695,Austin K-8,L2,6,Love Lalla-Pagan,Science,,226,235,244.0
+0120,Austin K-8,L2,5,Nadine Romman,Reading,232,233,233,238.0
+0120,Austin K-8,L2,5,Nadine Romman,Math,266,256,268,278.0
+0120,Austin K-8,L2,5,Nadine Romman,Language,233,235,236,247.0
+0120,Austin K-8,L2,5,Nadine Romman,Science,226,219,226,237.0
+0697,Austin K-8,L2,6,Parker Carlson,Reading,,222,230,240.0
+0697,Austin K-8,L2,6,Parker Carlson,Math,,222,234,236.0
+0697,Austin K-8,L2,6,Parker Carlson,Language,,225,230,236.0
+0697,Austin K-8,L2,6,Parker Carlson,Science,,222,229,229.0
+0760,Austin K-8,L2,6,Rania Caberwal,Reading,,248,254,251.0
+0760,Austin K-8,L2,6,Rania Caberwal,Math,,230,237,247.0
+0760,Austin K-8,L2,6,Rania Caberwal,Language,,246,246,255.0
+0760,Austin K-8,L2,6,Rania Caberwal,Science,,221,230,230.0
+0681,Austin K-8,L2,5,Rocco Benetti,Reading,211,210,228,221.0
+0681,Austin K-8,L2,5,Rocco Benetti,Math,214,210,220,228.0
+0681,Austin K-8,L2,5,Rocco Benetti,Language,217,217,224,227.0
+0681,Austin K-8,L2,5,Rocco Benetti,Science,210,214,207,211.0
+0898,Austin K-8,L3,7,Sam Ratcliff,Reading,,,229,242.0
+0898,Austin K-8,L3,7,Sam Ratcliff,Math,,,241,245.0
+0898,Austin K-8,L3,7,Sam Ratcliff,Language,,,233,231.0
+0898,Austin K-8,L3,7,Sam Ratcliff,Science,,,228,238.0
+0523,Austin K-8,L2,6,Shepperd Pfiester,Reading,235,234,241,242.0
+0523,Austin K-8,L2,6,Shepperd Pfiester,Math,233,240,251,251.0
+0523,Austin K-8,L2,6,Shepperd Pfiester,Language,236,242,247,247.0
+0523,Austin K-8,L2,6,Shepperd Pfiester,Science,232,233,234,233.0
+0871,Austin K-8,L2,6,Sylvi Hagman,Reading,,,224,226.0
+0871,Austin K-8,L2,6,Sylvi Hagman,Math,,,230,234.0
+0871,Austin K-8,L2,6,Sylvi Hagman,Language,,,226,229.0
+0871,Austin K-8,L2,6,Sylvi Hagman,Science,,,224,222.0
+0682,Austin K-8,L2,5,Vayda Hendle,Reading,195,195,210,213.0
+0682,Austin K-8,L2,5,Vayda Hendle,Math,194,188,203,202.0
+0682,Austin K-8,L2,5,Vayda Hendle,Language,193,194,207,207.0
+0682,Austin K-8,L2,5,Vayda Hendle,Science,198,192,199,205.0
+0613,Austin K-8,L2,6,Zaid Qunibi,Reading,231,219,238,234.0
+0613,Austin K-8,L2,6,Zaid Qunibi,Math,240,238,243,246.0
+0613,Austin K-8,L2,6,Zaid Qunibi,Language,230,231,230,236.0
+0613,Austin K-8,L2,6,Zaid Qunibi,Science,219,221,228,226.0
+0447,Austin K-8,L3,8,Adrienne Laswell,Reading,264,249,256,244.0
+0447,Austin K-8,L3,8,Adrienne Laswell,Math,264,254,262,269.0
+0447,Austin K-8,L3,8,Adrienne Laswell,Language,246,243,243,247.0
+0447,Austin K-8,L3,8,Adrienne Laswell,Science,234,247,242,231.0
+0866,Austin K-8,L3,8,Aheli Shah,Reading,,,230,234.0
+0866,Austin K-8,L3,8,Aheli Shah,Math,,,260,247.0
+0866,Austin K-8,L3,8,Aheli Shah,Language,,,229,228.0
+0866,Austin K-8,L3,8,Aheli Shah,Science,,,230,224.0
+0471,Austin K-8,L3,7,Aileya Klinefelter,Reading,230,235,230,238.0
+0471,Austin K-8,L3,7,Aileya Klinefelter,Math,251,245,257,252.0
+0471,Austin K-8,L3,7,Aileya Klinefelter,Language,243,229,239,239.0
+0471,Austin K-8,L3,7,Aileya Klinefelter,Science,229,225,234,225.0
+0070,Austin K-8,L3,8,Ali Romman,Reading,248,251,256,260.0
+0070,Austin K-8,L3,8,Ali Romman,Math,270,267,285,282.0
+0070,Austin K-8,L3,8,Ali Romman,Language,252,251,252,256.0
+0070,Austin K-8,L3,8,Ali Romman,Science,254,246,254,253.0
+0696,Austin K-8,L3,7,Aoife Moore,Reading,,233,237,242.0
+0696,Austin K-8,L3,7,Aoife Moore,Math,,228,228,243.0
+0696,Austin K-8,L3,7,Aoife Moore,Language,,216,229,232.0
+0696,Austin K-8,L3,7,Aoife Moore,Science,,211,219,226.0
+0535,Austin K-8,L3,7,Bailey Carlson,Reading,247,245,252,255.0
+0535,Austin K-8,L3,7,Bailey Carlson,Math,254,259,259,267.0
+0535,Austin K-8,L3,7,Bailey Carlson,Language,249,250,260,251.0
+0535,Austin K-8,L3,7,Bailey Carlson,Science,240,239,239,244.0
+0749,Austin K-8,L3,8,Benny Valles,Reading,,226,236,233.0
+0749,Austin K-8,L3,8,Benny Valles,Math,,222,239,243.0
+0749,Austin K-8,L3,8,Benny Valles,Language,,223,233,239.0
+0749,Austin K-8,L3,8,Benny Valles,Science,,218,221,221.0
+0522,Austin K-8,L3,8,Branson Pfiester,Reading,236,234,240,238.0
+0522,Austin K-8,L3,8,Branson Pfiester,Math,257,259,265,272.0
+0522,Austin K-8,L3,8,Branson Pfiester,Language,246,249,246,249.0
+0522,Austin K-8,L3,8,Branson Pfiester,Science,236,233,231,231.0
+0193,Austin K-8,#N/A,#N/A,Chloe Curtis,Reading,241,254,248,244.0
+0193,Austin K-8,#N/A,#N/A,Chloe Curtis,Math,254,257,270,271.0
+0193,Austin K-8,#N/A,#N/A,Chloe Curtis,Language,253,249,251,243.0
+0193,Austin K-8,#N/A,#N/A,Chloe Curtis,Science,245,237,245,250.0
+0416,Austin K-8,L3,7,Ella McMurry,Reading,231,236,235,234.0
+0416,Austin K-8,L3,7,Ella McMurry,Math,239,233,243,246.0
+0416,Austin K-8,L3,7,Ella McMurry,Language,233,239,238,243.0
+0416,Austin K-8,L3,7,Ella McMurry,Science,229,230,237,235.0
+1213,Austin K-8,L3,7,Eva Mentgen,Reading,,,238,245.0
+1213,Austin K-8,L3,7,Eva Mentgen,Math,,,267,265.0
+1213,Austin K-8,L3,7,Eva Mentgen,Language,,,,243.0
+1213,Austin K-8,L3,7,Eva Mentgen,Science,,,,238.0
+0728,Austin K-8,L3,8,Grady Swanson,Reading,,250,259,248.0
+0728,Austin K-8,L3,8,Grady Swanson,Math,,262,272,281.0
+0728,Austin K-8,L3,8,Grady Swanson,Language,,250,247,246.0
+0728,Austin K-8,L3,8,Grady Swanson,Science,,244,247,250.0
+0539,Austin K-8,L3,8,Greyson Walker,Reading,231,230,234,235.0
+0539,Austin K-8,L3,8,Greyson Walker,Math,240,237,242,255.0
+0539,Austin K-8,L3,8,Greyson Walker,Language,232,225,232,235.0
+0539,Austin K-8,L3,8,Greyson Walker,Science,223,219,231,240.0
+0388,Austin K-8,L3,8,Gus Castillo,Reading,222,228,230,238.0
+0388,Austin K-8,L3,8,Gus Castillo,Math,237,236,252,246.0
+0388,Austin K-8,L3,8,Gus Castillo,Language,226,228,229,244.0
+0388,Austin K-8,L3,8,Gus Castillo,Science,223,215,223,229.0
+0916,Austin K-8,L3,7,Gwendolyn Meegan,Reading,,,223,234.0
+0916,Austin K-8,L3,7,Gwendolyn Meegan,Math,,,236,240.0
+0916,Austin K-8,L3,7,Gwendolyn Meegan,Language,,,223,223.0
+0916,Austin K-8,L3,7,Gwendolyn Meegan,Science,,,228,235.0
+0003,Austin K-8,L3,8,Hannah Brown,Reading,248,247,254,243.0
+0003,Austin K-8,L3,8,Hannah Brown,Math,248,250,253,256.0
+0003,Austin K-8,L3,8,Hannah Brown,Language,247,247,248,251.0
+0003,Austin K-8,L3,8,Hannah Brown,Science,237,234,233,237.0
+0479,Austin K-8,L3,8,Harry Osborne,Reading,240,242,244,249.0
+0479,Austin K-8,L3,8,Harry Osborne,Math,247,247,259,253.0
+0479,Austin K-8,L3,8,Harry Osborne,Language,234,226,243,242.0
+0479,Austin K-8,L3,8,Harry Osborne,Science,236,232,233,237.0
+2357,Austin K-8,L3,7,Iker Negrete,Reading,,,,
+2357,Austin K-8,L3,7,Iker Negrete,Math,,,,
+2357,Austin K-8,L3,7,Iker Negrete,Language,,,,
+2357,Austin K-8,L3,7,Iker Negrete,Science,,,,
+0161,Austin K-8,L3,7,Jack Cotner,Reading,231,226,240,239.0
+0161,Austin K-8,L3,7,Jack Cotner,Math,248,247,262,264.0
+0161,Austin K-8,L3,7,Jack Cotner,Language,232,230,228,244.0
+0161,Austin K-8,L3,7,Jack Cotner,Science,233,231,247,234.0
+0371,Austin K-8,L3,8,Jackson Wiley,Reading,245,251,249,253.0
+0371,Austin K-8,L3,8,Jackson Wiley,Math,244,249,257,255.0
+0371,Austin K-8,L3,8,Jackson Wiley,Language,240,244,249,247.0
+0371,Austin K-8,L3,8,Jackson Wiley,Science,234,225,242,239.0
+0196,Austin K-8,L3,8,Jacob Kuchinsky,Reading,,,258,252.0
+0196,Austin K-8,L3,8,Jacob Kuchinsky,Math,,,265,269.0
+0196,Austin K-8,L3,8,Jacob Kuchinsky,Language,,,244,243.0
+0196,Austin K-8,L3,8,Jacob Kuchinsky,Science,,,247,254.0
+0864,Austin K-8,L3,7,Josi Posillico,Reading,,,,
+0026,Austin K-8,L3,7,Jude Hock,Reading,,,227,239.0
+0026,Austin K-8,L3,7,Jude Hock,Math,,,267,263.0
+0026,Austin K-8,L3,7,Jude Hock,Language,,,218,227.0
+0026,Austin K-8,L3,7,Jude Hock,Science,,,239,239.0
+0470,Austin K-8,L3,8,Lucian Klinefelter,Reading,231,235,237,235.0
+0470,Austin K-8,L3,8,Lucian Klinefelter,Math,245,244,250,253.0
+0470,Austin K-8,L3,8,Lucian Klinefelter,Language,230,233,244,235.0
+0470,Austin K-8,L3,8,Lucian Klinefelter,Science,231,232,236,236.0
+0579,Austin K-8,L3,7,Lulu Bressan,Reading,252,248,252,253.0
+0579,Austin K-8,L3,7,Lulu Bressan,Math,242,246,256,258.0
+0579,Austin K-8,L3,7,Lulu Bressan,Language,247,251,249,253.0
+0579,Austin K-8,L3,7,Lulu Bressan,Science,233,232,229,237.0
+0480,Austin K-8,L3,8,Maddie Moncure,Reading,251,258,255,253.0
+0480,Austin K-8,L3,8,Maddie Moncure,Math,255,261,266,262.0
+0480,Austin K-8,L3,8,Maddie Moncure,Language,247,248,253,268.0
+0480,Austin K-8,L3,8,Maddie Moncure,Science,244,238,239,245.0
+0153,Austin K-8,L3,8,Madeline Kozun,Reading,259,249,255,248.0
+0153,Austin K-8,L3,8,Madeline Kozun,Math,253,245,244,251.0
+0153,Austin K-8,L3,8,Madeline Kozun,Language,250,243,254,243.0
+0153,Austin K-8,L3,8,Madeline Kozun,Science,238,235,235,240.0
+0564,Austin K-8,L3,7,Michael John Sewell,Reading,237,239,243,235.0
+0564,Austin K-8,L3,7,Michael John Sewell,Math,236,234,238,232.0
+0564,Austin K-8,L3,7,Michael John Sewell,Language,232,232,232,231.0
+0564,Austin K-8,L3,7,Michael John Sewell,Science,226,232,231,234.0
+0491,Austin K-8,L3,7,Naomi Kocek,Reading,241,243,243,240.0
+0491,Austin K-8,L3,7,Naomi Kocek,Math,240,253,247,249.0
+0491,Austin K-8,L3,7,Naomi Kocek,Language,244,250,245,257.0
+0491,Austin K-8,L3,7,Naomi Kocek,Science,231,234,230,232.0
+0092,Austin K-8,L3,7,Parker Pesek,Reading,221,208,221,231.0
+0092,Austin K-8,L3,7,Parker Pesek,Math,256,242,268,265.0
+0092,Austin K-8,L3,7,Parker Pesek,Language,220,223,221,234.0
+0092,Austin K-8,L3,7,Parker Pesek,Science,232,223,226,227.0
+0525,Austin K-8,L3,8,Phin Parrott,Reading,228,233,230,241.0
+0525,Austin K-8,L3,8,Phin Parrott,Math,239,245,248,255.0
+0525,Austin K-8,L3,8,Phin Parrott,Language,227,234,233,243.0
+0525,Austin K-8,L3,8,Phin Parrott,Science,231,225,235,243.0
+0598,Austin K-8,L3,7,Rhys Björendahl,Reading,236,222,227,233.0
+0598,Austin K-8,L3,7,Rhys Björendahl,Math,250,253,255,260.0
+0598,Austin K-8,L3,7,Rhys Björendahl,Language,229,225,224,229.0
+0598,Austin K-8,L3,7,Rhys Björendahl,Science,231,214,230,232.0
+0784,Austin K-8,L3,7,Roarke Radia,Reading,,,236,246.0
+0784,Austin K-8,L3,7,Roarke Radia,Math,,,246,244.0
+0784,Austin K-8,L3,7,Roarke Radia,Language,,,232,242.0
+0784,Austin K-8,L3,7,Roarke Radia,Science,,,221,231.0
+0546,Austin K-8,L3,8,Ross Margraves,Reading,233,223,234,229.0
+0546,Austin K-8,L3,8,Ross Margraves,Math,234,227,242,243.0
+0546,Austin K-8,L3,8,Ross Margraves,Language,217,218,231,224.0
+0546,Austin K-8,L3,8,Ross Margraves,Science,219,214,229,226.0
+0271,Austin K-8,L3,8,Sawyer Jayasuriya,Reading,243,247,239,
+0271,Austin K-8,L3,8,Sawyer Jayasuriya,Math,252,263,258,
+0271,Austin K-8,L3,8,Sawyer Jayasuriya,Language,236,237,240,
+0271,Austin K-8,L3,8,Sawyer Jayasuriya,Science,244,240,236,
+0797,Austin K-8,L3,7,Townes Van Zandt,Reading,,,214,212.0
+0797,Austin K-8,L3,7,Townes Van Zandt,Math,,,224,220.0
+0797,Austin K-8,L3,7,Townes Van Zandt,Language,,,217,207.0
+0797,Austin K-8,L3,7,Townes Van Zandt,Science,,,209,212.0
+0843,Austin K-8,L3,8,Zayen Szpitalak,Reading,,,235,231.0
+0843,Austin K-8,L3,8,Zayen Szpitalak,Math,,,251,256.0
+0843,Austin K-8,L3,8,Zayen Szpitalak,Language,,,228,229.0
+0843,Austin K-8,L3,8,Zayen Szpitalak,Science,,,231,236.0
+0396,Austin K-8,L3,8,Zephyr Sharpe,Reading,238,231,239,239.0
+0396,Austin K-8,L3,8,Zephyr Sharpe,Math,248,249,248,243.0
+0396,Austin K-8,L3,8,Zephyr Sharpe,Language,230,240,231,236.0
+0396,Austin K-8,L3,8,Zephyr Sharpe,Science,237,233,234,237.0
+0608,Austin K-8,Linc,1,Gia Clark,Reading,191,194,200,207.0
+0608,Austin K-8,Linc,1,Gia Clark,Math,201,185,206,218.0
+0490,Austin K-8,Linc,2,James Gregory,Reading,208,210,223,225.0
+0490,Austin K-8,Linc,2,James Gregory,Math,205,202,208,217.0
+0490,Austin K-8,Linc,2,James Gregory,Language,,207,210,221.0
+0615,Austin K-8,Linc,2,Nour Romman,Reading,201,204,218,222.0
+0615,Austin K-8,Linc,2,Nour Romman,Math,205,203,220,225.0
+0615,Austin K-8,Linc,2,Nour Romman,Language,209,204,223,228.0
+0483,Austin K-8,Linc,2,Raphael Shinar,Reading,192,193,198,200.0
+0483,Austin K-8,Linc,2,Raphael Shinar,Math,210,201,213,211.0
+0483,Austin K-8,Linc,2,Raphael Shinar,Language,,195,201,203.0
+0751,Austin K-8,Linc,2,Ren Sticker,Reading,,184,197,204.0
+0751,Austin K-8,Linc,2,Ren Sticker,Math,,176,194,216.0
+0751,Austin K-8,Linc,2,Ren Sticker,Language,,,,
+0607,Austin K-8,Linc,2,Rivers Yong,Reading,188,183,185,196.0
+0607,Austin K-8,Linc,2,Rivers Yong,Math,194,195,208,217.0
+0607,Austin K-8,Linc,2,Rivers Yong,Language,,,,
+0612,Austin K-8,Linc,1,Rory Salton,Reading,183,185,204,203.0
+0612,Austin K-8,Linc,1,Rory Salton,Math,191,194,209,216.0
+2600,Austin K-8,Linc,2,Saachi Sharma,Reading,,,,190.0
+2600,Austin K-8,Linc,2,Saachi Sharma,Math,,,,191.0
+2600,Austin K-8,Linc,2,Saachi Sharma,Language,,,,
+0721,Austin K-8,LL,1,Aiden Richardson,Reading,,142,165,186.0
+0721,Austin K-8,LL,1,Aiden Richardson,Math,,155,183,198.0
+0769,Austin K-8,LL,K,Anthem Thomas,Reading,,159,173,187.0
+0769,Austin K-8,LL,K,Anthem Thomas,Math,,163,179,197.0
+0735,Austin K-8,LL,K,Arden McCord,Reading,,160,180,181.0
+0735,Austin K-8,LL,K,Arden McCord,Math,,158,177,206.0
+0635,Austin K-8,LL,K,Bandon Peterson,Reading,,160,169,183.0
+0635,Austin K-8,LL,K,Bandon Peterson,Math,,159,184,195.0
+0614,Austin K-8,LL,K,Blake Price,Reading,180,171,185,193.0
+0614,Austin K-8,LL,K,Blake Price,Math,172,170,185,192.0
+0799,Austin K-8,LL,K,Callum Carson-Alford,Reading,,,167,185.0
+0799,Austin K-8,LL,K,Callum Carson-Alford,Math,,,169,192.0
+0770,Austin K-8,LL,1,Diego Bash,Reading,,146,164,178.0
+0770,Austin K-8,LL,1,Diego Bash,Math,,148,185,186.0
+0673,Austin K-8,LL,K,Eleanor Paul,Reading,,165,183,195.0
+0673,Austin K-8,LL,K,Eleanor Paul,Math,,170,200,195.0
+0688,Austin K-8,LL,K,Elijah Knecht,Reading,,157,176,196.0
+0688,Austin K-8,LL,K,Elijah Knecht,Math,,156,181,197.0
+0727,Austin K-8,LL,1,Eva Lenington,Reading,,170,181,186.0
+0727,Austin K-8,LL,1,Eva Lenington,Math,,168,186,193.0
+0850,Austin K-8,#N/A,#N/A,Eva Martinez,Reading,,,,
+0850,Austin K-8,#N/A,#N/A,Eva Martinez,Math,,,,
+0962,Austin K-8,LL,1,Ezra Allred,Reading,,,196,199.0
+0962,Austin K-8,LL,1,Ezra Allred,Math,,,188,205.0
+0605,Austin K-8,LL,1,Gideon Griffin,Reading,174,169,184,190.0
+0605,Austin K-8,LL,1,Gideon Griffin,Math,183,188,202,207.0
+0747,Austin K-8,LL,1,Hayden Temcharoen,Reading,,171,190,203.0
+0747,Austin K-8,LL,1,Hayden Temcharoen,Math,,165,194,204.0
+0698,Austin K-8,LL,1,Jake Signor,Reading,,169,182,191.0
+0698,Austin K-8,LL,1,Jake Signor,Math,,161,197,203.0
+0691,Austin K-8,LL,1,Jimmy Moore,Reading,,162,185,181.0
+0691,Austin K-8,LL,1,Jimmy Moore,Math,,140,192,195.0
+0685,Austin K-8,LL,1,Mallory Hobart,Reading,,178,195,209.0
+0685,Austin K-8,LL,1,Mallory Hobart,Math,,171,185,190.0
+0609,Austin K-8,LL,1,Milam Morgan,Reading,187,195,210,201.0
+0609,Austin K-8,LL,1,Milam Morgan,Math,197,189,201,204.0
+0722,Austin K-8,LL,K,Nico Blanco,Reading,,141,163,170.0
+0722,Austin K-8,LL,K,Nico Blanco,Math,,150,165,180.0
+0626,Austin K-8,LL,1,Odeya Shinar,Reading,186,184,197,199.0
+0626,Austin K-8,LL,1,Odeya Shinar,Math,191,186,210,221.0
+0701,Austin K-8,#N/A,#N/A,Thomas Loftus,Reading,,159,175,190.0
+0701,Austin K-8,#N/A,#N/A,Thomas Loftus,Math,,162,175,193.0
+0606,Austin K-8,LL,1,Vivian Ajouz,Reading,168,173,202,200.0
+0606,Austin K-8,LL,1,Vivian Ajouz,Math,168,161,180,206.0
+0686,Austin K-8,LL,1,Willa Rubenstein,Reading,,181,192,197.0
+0686,Austin K-8,LL,1,Willa Rubenstein,Math,,176,186,203.0
+0636,Austin K-8,LL,K,William Nolan,Reading,,173,190,202.0
+0636,Austin K-8,LL,K,William Nolan,Math,,172,198,210.0
+0919,Austin K-8,PKBY,PK,Aodan Nosek,Reading,,,,134.0
+0919,Austin K-8,PKBY,PK,Aodan Nosek,Math,,,137,
+0951,Austin K-8,PKBY,PK,Aria Nicholls,Reading,,,,116.0
+0951,Austin K-8,PKBY,PK,Aria Nicholls,Math,,,,149.0
+0848,Austin K-8,PKBY,PK,Ella Clark,Reading,,,151,163.0
+0848,Austin K-8,PKBY,PK,Ella Clark,Math,,,151,165.0
+0895,Austin K-8,LL,K,Mazen Qunibi,Reading,,,130,138.0
+0895,Austin K-8,LL,K,Mazen Qunibi,Math,,,129,141.0
+0684,Austin K-8,PKBY,K,Oz Robertson,Reading,,142,140,166.0
+0684,Austin K-8,PKBY,K,Oz Robertson,Math,,142,141,165.0
+0846,Austin K-8,PKBY,PK,Tommy Nolan,Reading,,,137,153.0
+0846,Austin K-8,PKBY,PK,Tommy Nolan,Math,,,139,166.0
+0603,Brownsville K-8,L1,5,Evelyn Gabler,Reading,237,232,242,241.0
+0603,Brownsville K-8,L1,5,Evelyn Gabler,Math,234,223,241,247.0
+0603,Brownsville K-8,L1,5,Evelyn Gabler,Language,233,234,240,241.0
+0603,Brownsville K-8,L1,5,Evelyn Gabler,Science,238,237,243,243.0
+0620,Brownsville K-8,L1,4,Logan Campbell,Reading,231,215,229,231.0
+0620,Brownsville K-8,L1,4,Logan Campbell,Math,215,203,219,225.0
+0620,Brownsville K-8,L1,4,Logan Campbell,Language,221,216,227,230.0
+0620,Brownsville K-8,L1,4,Logan Campbell,Science,217,205,217,232.0
+0746,Brownsville K-8,L1,4,Ramsey Levin,Reading,,226,237,242.0
+0746,Brownsville K-8,L1,4,Ramsey Levin,Math,,219,232,228.0
+0746,Brownsville K-8,L1,4,Ramsey Levin,Language,,229,232,237.0
+0746,Brownsville K-8,L1,4,Ramsey Levin,Science,,216,229,230.0
+0629,Brownsville K-8,L1,3,Sarah Hunter,Reading,208,211,219,215.0
+0629,Brownsville K-8,L1,3,Sarah Hunter,Math,210,201,210,220.0
+0629,Brownsville K-8,L1,3,Sarah Hunter,Language,202,206,212,217.0
+0629,Brownsville K-8,L1,3,Sarah Hunter,Science,202,,213,216.0
+1252,Brownsville K-8,L2,6,Johnny Darcy,Reading,,,,236.0
+1252,Brownsville K-8,L2,6,Johnny Darcy,Math,,,,236.0
+1252,Brownsville K-8,L2,6,Johnny Darcy,Language,,,,236.0
+1252,Brownsville K-8,L2,6,Johnny Darcy,Science,,,,232.0
+0611,Brownsville K-8,L2,5,Lavender Marrero,Reading,221,225,227,226.0
+0611,Brownsville K-8,L2,5,Lavender Marrero,Math,217,221,226,237.0
+0611,Brownsville K-8,L2,5,Lavender Marrero,Language,219,222,225,222.0
+0611,Brownsville K-8,L2,5,Lavender Marrero,Science,216,220,,223.0
+0732,Brownsville K-8,L2,6,Lily Gray,Reading,,220,228,236.0
+0732,Brownsville K-8,L2,6,Lily Gray,Math,,219,234,237.0
+0732,Brownsville K-8,L2,6,Lily Gray,Language,,228,231,233.0
+0732,Brownsville K-8,L2,6,Lily Gray,Science,,219,231,233.0
+0733,Brownsville K-8,L2,6,Marcus Fuentes,Reading,,211,220,221.0
+0733,Brownsville K-8,L2,6,Marcus Fuentes,Math,,220,224,223.0
+0733,Brownsville K-8,L2,6,Marcus Fuentes,Language,,203,218,221.0
+0733,Brownsville K-8,L2,6,Marcus Fuentes,Science,,200,211,222.0
+0619,Brownsville K-8,L2,7,Orion Campbell,Reading,235,234,239,241.0
+0619,Brownsville K-8,L2,7,Orion Campbell,Math,222,213,229,237.0
+0619,Brownsville K-8,L2,7,Orion Campbell,Language,223,214,226,228.0
+0619,Brownsville K-8,L2,7,Orion Campbell,Science,222,224,233,231.0
+0644,Brownsville K-8,L2,6,Raegan Middleton,Reading,224,218,229,224.0
+0644,Brownsville K-8,L2,6,Raegan Middleton,Math,220,217,220,221.0
+0644,Brownsville K-8,L2,6,Raegan Middleton,Language,220,214,226,229.0
+0644,Brownsville K-8,L2,6,Raegan Middleton,Science,217,212,221,228.0
+0601,Brownsville K-8,L3,7,Sander Gabler,Reading,252,244,255,254.0
+0601,Brownsville K-8,L3,7,Sander Gabler,Math,261,256,264,268.0
+0601,Brownsville K-8,L3,7,Sander Gabler,Language,254,249,256,264.0
+0601,Brownsville K-8,L3,7,Sander Gabler,Science,247,246,252,247.0
+0610,Brownsville K-8,L3,7,Savannah Marrero,Reading,241,231,237,238.0
+0610,Brownsville K-8,L3,7,Savannah Marrero,Math,238,233,244,248.0
+0610,Brownsville K-8,L3,7,Savannah Marrero,Language,231,231,236,235.0
+0610,Brownsville K-8,L3,7,Savannah Marrero,Science,220,225,233,230.0
+0631,Brownsville K-8,Linc,2,Abigail Hunter,Reading,187,191,200,210.0
+0631,Brownsville K-8,Linc,2,Abigail Hunter,Math,193,188,203,211.0
+0631,Brownsville K-8,Linc,2,Abigail Hunter,Language,,,200,208.0
+0602,Brownsville K-8,Linc,1,Amelia Gabler,Reading,190,198,206,212.0
+0602,Brownsville K-8,Linc,1,Amelia Gabler,Math,206,193,209,214.0
+0602,Brownsville K-8,Linc,1,Amelia Gabler,Language,,,200,208.0
+0543,Brownsville K-8,Linc,2,Aster Burns,Reading,175,175,193,200.0
+0543,Brownsville K-8,Linc,2,Aster Burns,Math,185,182,198,203.0
+0543,Brownsville K-8,Linc,2,Aster Burns,Language,,,192,198.0
+0662,Brownsville K-8,Linc,2,C.J. Wright,Reading,,164,179,182.0
+0662,Brownsville K-8,Linc,2,C.J. Wright,Math,,170,186,200.0
+0662,Brownsville K-8,Linc,2,C.J. Wright,Language,,,178,190.0
+0699,Brownsville K-8,Linc,3,Ginny Gray,Reading,180,183,198,201.0
+0699,Brownsville K-8,Linc,3,Ginny Gray,Math,173,169,186,201.0
+0699,Brownsville K-8,Linc,3,Ginny Gray,Language,173,173,191,201.0
+0699,Brownsville K-8,Linc,3,Ginny Gray,Science,180,,,
+2383,Brownsville K-8,Linc,2,Theodore Salgado-Singer,Reading,,,,191.0
+2383,Brownsville K-8,Linc,2,Theodore Salgado-Singer,Math,,,,191.0
+2383,Brownsville K-8,Linc,2,Theodore Salgado-Singer,Language,,,,
+0562,Brownsville K-8,Linc,3,Zarielle Vela,Reading,183,181,197,216.0
+0562,Brownsville K-8,Linc,3,Zarielle Vela,Math,203,182,198,208.0
+0562,Brownsville K-8,Linc,3,Zarielle Vela,Language,188,187,203,206.0
+0562,Brownsville K-8,Linc,3,Zarielle Vela,Science,181,,,
+0736,Brownsville K-8,LL,1,Bash Salazar,Reading,,156,178,182.0
+0736,Brownsville K-8,LL,1,Bash Salazar,Math,,178,202,212.0
+0643,Brownsville K-8,LL,K,Elijah Hunter,Reading,149,145,169,188.0
+0643,Brownsville K-8,LL,K,Elijah Hunter,Math,163,142,174,197.0
+0651,Brownsville K-8,LL,1,Emery Cox,Reading,,170,193,204.0
+0651,Brownsville K-8,LL,1,Emery Cox,Math,,175,205,219.0
+0703,Brownsville K-8,LL,1,Ethan Bale,Reading,,153,178,187.0
+0703,Brownsville K-8,LL,1,Ethan Bale,Math,,163,194,202.0
+0700,Brownsville K-8,LL,K,Gigi Gurrola,Math,148,143,166,176.0
+0700,Brownsville K-8,LL,K,Gigi Gurrola,Reading,144,147,156,169.0
+0664,Brownsville K-8,LL,1,Landon Thach,Reading,169,163,187,187.0
+0664,Brownsville K-8,LL,1,Landon Thach,Math,175,169,188,197.0
+0724,Brownsville K-8,LL,K,Luisela Almanza,Reading,,121,148,144.0
+0724,Brownsville K-8,LL,K,Luisela Almanza,Math,,,163,160.0
+0782,Brownsville K-8,LL,K,Meka Hossaini-Joudrey,Reading,,,169,179.0
+0782,Brownsville K-8,LL,K,Meka Hossaini-Joudrey,Math,,,171,182.0
+0725,Brownsville K-8,LL,K,Rafaela Almanza,Reading,,132,151,159.0
+0725,Brownsville K-8,LL,K,Rafaela Almanza,Math,,,156,160.0
+0739,Brownsville K-8,LL,K,Sarah Schipper,Reading,,145,168,186.0
+0739,Brownsville K-8,LL,K,Sarah Schipper,Math,,159,176,193.0
+0663,Brownsville K-8,LL,K,Victoria Leal,Reading,143,148,152,169.0
+0663,Brownsville K-8,LL,K,Victoria Leal,Math,154,154,168,176.0
+0745,Brownsville K-8,LL,K,Vigo Levin,Reading,,173,192,204.0
+0745,Brownsville K-8,LL,K,Vigo Levin,Math,,176,202,217.0
+0689,Brownsville K-8,LL,1,Zoey Peden,Reading,,179,199,200.0
+0689,Brownsville K-8,LL,1,Zoey Peden,Math,,183,209,227.0
+0642,Brownsville K-8,PKBY,PK,Edward Qu,Math,151,137,,177.0
+0642,Brownsville K-8,PKBY,PK,Edward Qu,Reading,,143,,167.0
+0647,Brownsville K-8,PKBY,PK,Emma Garcia Lerma,Math,,,142,185.0
+0647,Brownsville K-8,PKBY,PK,Emma Garcia Lerma,Reading,,,144,150.0
+0738,Brownsville K-8,PKBY,PK,Emma Schipper,Math,,148,174,182.0
+0738,Brownsville K-8,PKBY,PK,Emma Schipper,Reading,,140,174,169.0
+0687,Brownsville K-8,PKBY,PK,Lucy Peden,Math,,150,178,182.0
+0687,Brownsville K-8,PKBY,PK,Lucy Peden,Reading,,138,166,173.0
+0726,Brownsville K-8,PKBY,PK,Maya Muthuswamy,Math,,138,158,160.0
+0726,Brownsville K-8,PKBY,PK,Maya Muthuswamy,Reading,,134,152,157.0
+0641,Brownsville K-8,PKBY,PK,Ryan Hillman,Math,,,143,141.0
+0641,Brownsville K-8,PKBY,PK,Ryan Hillman,Reading,,,140,147.0
+0731,Brownsville K-8,PKBY,PK,Seby Holzhauer,Math,,141,1633,167.0
+0731,Brownsville K-8,PKBY,PK,Seby Holzhauer,Reading,,145,173,164.0
+2559,Esports Academy: Austin,L2,6,Brendan Lopez,Reading,,,,188.0
+2559,Esports Academy: Austin,L2,6,Brendan Lopez,Math,,,,203.0
+2559,Esports Academy: Austin,L2,6,Brendan Lopez,Language,,,,190.0
+2559,Esports Academy: Austin,L2,6,Brendan Lopez,Science,,,,194.0
+0755,Esports Academy: Austin,L2,6,Felix Cole,Reading,,218,229,230.0
+0755,Esports Academy: Austin,L2,6,Felix Cole,Math,,216,234,240.0
+0755,Esports Academy: Austin,L2,6,Felix Cole,Language,,214,236,229.0
+0755,Esports Academy: Austin,L2,6,Felix Cole,Science,,214,222,224.0
+0944,Esports Academy: Austin,L2,6,Landen Goikhman,Reading,,,206,220.0
+0944,Esports Academy: Austin,L2,6,Landen Goikhman,Math,,,212,223.0
+0944,Esports Academy: Austin,L2,6,Landen Goikhman,Language,,,195,209.0
+0944,Esports Academy: Austin,L2,6,Landen Goikhman,Science,,,200,220.0
+0778,Esports Academy: Austin,L2,5,Xavier Siddall,Reading,,211,223,224.0
+0778,Esports Academy: Austin,L2,5,Xavier Siddall,Math,,211,213,224.0
+0778,Esports Academy: Austin,L2,5,Xavier Siddall,Language,,208,224,222.0
+0778,Esports Academy: Austin,L2,5,Xavier Siddall,Science,,,220,216.0
+0744,Esports Academy: Austin,L3,7,Bennett Morris,Reading,,230,234,238.0
+0744,Esports Academy: Austin,L3,7,Bennett Morris,Math,,235,236,240.0
+0744,Esports Academy: Austin,L3,7,Bennett Morris,Language,,231,227,234.0
+0744,Esports Academy: Austin,L3,7,Bennett Morris,Science,,219,223,229.0
+0950,GT School: Georgetown TX,L1,3,Ariel Martel,Reading,,,204,224.0
+0950,GT School: Georgetown TX,L1,3,Ariel Martel,Math,,,205,221.0
+0950,GT School: Georgetown TX,L1,3,Ariel Martel,Language,,,204,216.0
+0950,GT School: Georgetown TX,L1,3,Ariel Martel,Science,,,202,215.0
+0768,GT School: Georgetown TX,L1,4,Everest Nevraumont,Reading,,,237,240.0
+0768,GT School: Georgetown TX,L1,4,Everest Nevraumont,Math,,,220,230.0
+0768,GT School: Georgetown TX,L1,4,Everest Nevraumont,Language,,,232,240.0
+0768,GT School: Georgetown TX,L1,4,Everest Nevraumont,Science,,,229,229.0
+0762,GT School: Georgetown TX,L1,5,Nate Evans,Reading,,223,233,235.0
+0762,GT School: Georgetown TX,L1,5,Nate Evans,Math,,215,223,241.0
+0762,GT School: Georgetown TX,L1,5,Nate Evans,Language,,220,229,235.0
+0762,GT School: Georgetown TX,L1,5,Nate Evans,Science,,215,224,236.0
+0765,GT School: Georgetown TX,L2,6,Krish Bhakta,Reading,,223,240,239.0
+0765,GT School: Georgetown TX,L2,6,Krish Bhakta,Math,,227,243,260.0
+0765,GT School: Georgetown TX,L2,6,Krish Bhakta,Language,,215,235,238.0
+0765,GT School: Georgetown TX,L2,6,Krish Bhakta,Science,,217,225,238.0
+0948,GT School: Georgetown TX,L2,6,Lucas Sanner,Reading,,,225,236.0
+0948,GT School: Georgetown TX,L2,6,Lucas Sanner,Math,,,239,243.0
+0948,GT School: Georgetown TX,L2,6,Lucas Sanner,Language,,,218,225.0
+0948,GT School: Georgetown TX,L2,6,Lucas Sanner,Science,,,219,224.0
+0763,GT School: Georgetown TX,L3,7,Jaiden Bhakta,Reading,,240,246,252.0
+0763,GT School: Georgetown TX,L3,7,Jaiden Bhakta,Math,,258,273,281.0
+0763,GT School: Georgetown TX,L3,7,Jaiden Bhakta,Language,,230,242,249.0
+0763,GT School: Georgetown TX,L3,7,Jaiden Bhakta,Science,,238,247,246.0
+0707,GT School: Georgetown TX,Linc,2,Mara Nevraumont,Reading,,,206,216.0
+0707,GT School: Georgetown TX,Linc,2,Mara Nevraumont,Math,,,201,213.0
+0707,GT School: Georgetown TX,Linc,2,Mara Nevraumont,Language,,,206,221.0
+1238,GT School: Georgetown TX,Linc,3,Nova Victore,Reading,,,,
+1238,GT School: Georgetown TX,Linc,3,Nova Victore,Math,,,,
+1238,GT School: Georgetown TX,Linc,3,Nova Victore,Language,,,,
+0754,GT School: Georgetown TX,LL,2,Calvin Barraza,Reading,,181,203,224.0
+0754,GT School: Georgetown TX,LL,2,Calvin Barraza,Math,,163,189,202.0
+0753,GT School: Georgetown TX,LL,1,Eric Kenez,Reading,,160,202,216.0
+0753,GT School: Georgetown TX,LL,1,Eric Kenez,Math,,173,194,210.0
+0753,GT School: Georgetown TX,LL,1,Eric Kenez,Language,,157,196,204.0
+2509,GT School: Georgetown TX,Linc,2,Ethan Stromfeld,Reading,,,,184.0
+2509,GT School: Georgetown TX,Linc,2,Ethan Stromfeld,Math,,,,
+0706,GT School: Georgetown TX,LL,1,Jules Nevraumont,Reading,,,177,198.0
+0706,GT School: Georgetown TX,LL,1,Jules Nevraumont,Math,,,196,208.0
+2529,GT School: Georgetown TX,PKBY,PK,Fiona Nessler,Reading,,,,163.0
+2529,GT School: Georgetown TX,PKBY,PK,Fiona Nessler,Math,,,,166.0
+2512,GT School: Georgetown TX,PKBY,PK,Quinn Anaejionu,Reading,,,,148.0
+2512,GT School: Georgetown TX,PKBY,PK,Quinn Anaejionu,Math,,,,156.0
+0976,Sports Academy: Lakeway,L1,4,Alex Lekic Brajovic,Reading,,,225,225.0
+0976,Sports Academy: Lakeway,L1,4,Alex Lekic Brajovic,Math,,,214,227.0
+0976,Sports Academy: Lakeway,L1,4,Alex Lekic Brajovic,Language,,,222,228.0
+0976,Sports Academy: Lakeway,L1,4,Alex Lekic Brajovic,Science,,,216,226.0
+0989,Sports Academy: Lakeway,L1,3,Eastwood Washburn,Reading,,,,193.0
+0989,Sports Academy: Lakeway,L1,3,Eastwood Washburn,Math,,,,182.0
+0989,Sports Academy: Lakeway,L1,3,Eastwood Washburn,Language,,,,185.0
+0989,Sports Academy: Lakeway,L1,3,Eastwood Washburn,Science,,,,199.0
+1990,Sports Academy: Lakeway,L1,4,Jay Lever,Reading,,,,183.0
+1990,Sports Academy: Lakeway,L1,4,Jay Lever,Math,,,,195.0
+1990,Sports Academy: Lakeway,L1,4,Jay Lever,Language,,,,184.0
+1990,Sports Academy: Lakeway,L1,4,Jay Lever,Science,,,,192.0
+0455,Sports Academy: Lakeway,L1,3,Marshall Jensen,Reading,209,208,218,222.0
+0455,Sports Academy: Lakeway,L1,3,Marshall Jensen,Math,215,204,214,212.0
+0455,Sports Academy: Lakeway,L1,3,Marshall Jensen,Language,205,210,221,212.0
+0455,Sports Academy: Lakeway,L1,3,Marshall Jensen,Science,197,197,208,211.0
+0908,Sports Academy: Lakeway,L1,4,Omar Ibarra,Reading,,,,205.0
+0908,Sports Academy: Lakeway,L1,4,Omar Ibarra,Math,,,,201.0
+0908,Sports Academy: Lakeway,L1,4,Omar Ibarra,Language,,,,198.0
+0908,Sports Academy: Lakeway,L1,4,Omar Ibarra,Science,,,,211.0
+0971,Sports Academy: Lakeway,L1,4,Zane Rogers,Reading,,,205,213.0
+0971,Sports Academy: Lakeway,L1,4,Zane Rogers,Math,,,203,208.0
+0971,Sports Academy: Lakeway,L1,4,Zane Rogers,Language,,,,213.0
+0971,Sports Academy: Lakeway,L1,4,Zane Rogers,Science,,,,211.0
+0454,Sports Academy: Lakeway,L2,6,Aksel Jensen,Reading,226,230,228,229.0
+0454,Sports Academy: Lakeway,L2,6,Aksel Jensen,Math,242,240,241,242.0
+0454,Sports Academy: Lakeway,L2,6,Aksel Jensen,Language,216,218,230,226.0
+0454,Sports Academy: Lakeway,L2,6,Aksel Jensen,Science,225,214,223,230.0
+1919,Sports Academy: Lakeway,L2,6,Comerson Allen,Reading,,,,174.0
+1919,Sports Academy: Lakeway,L2,6,Comerson Allen,Math,,,,181.0
+1919,Sports Academy: Lakeway,L2,6,Comerson Allen,Language,,,,179.0
+1919,Sports Academy: Lakeway,L2,6,Comerson Allen,Science,,,,185.0
+0712,Sports Academy: Lakeway,L2,5,Jovani Hernandez,Reading,,205,202,200.0
+0712,Sports Academy: Lakeway,L2,5,Jovani Hernandez,Math,,200,206,213.0
+0712,Sports Academy: Lakeway,L2,5,Jovani Hernandez,Language,,203,205,210.0
+0712,Sports Academy: Lakeway,L2,5,Jovani Hernandez,Science,,207,207,204.0
+1925,Sports Academy: Lakeway,L2,5,Kai Lever,Reading,,,,224.0
+1925,Sports Academy: Lakeway,L2,5,Kai Lever,Math,,,,227.0
+1925,Sports Academy: Lakeway,L2,5,Kai Lever,Language,,,,220.0
+1925,Sports Academy: Lakeway,L2,5,Kai Lever,Science,,,,232.0
+0907,Sports Academy: Lakeway,L2,6,Stone Meyers,Reading,,,224,217.0
+0907,Sports Academy: Lakeway,L2,6,Stone Meyers,Math,,,211,213.0
+0907,Sports Academy: Lakeway,L2,6,Stone Meyers,Language,,,203,203.0
+0907,Sports Academy: Lakeway,L2,6,Stone Meyers,Science,,,208,206.0
+0918,Sports Academy: Lakeway,L3,7,Jet Butterworth,Reading,,,224,222.0
+0918,Sports Academy: Lakeway,L3,7,Jet Butterworth,Math,,,231,234.0
+0918,Sports Academy: Lakeway,L3,7,Jet Butterworth,Language,,,218,224.0
+0918,Sports Academy: Lakeway,L3,7,Jet Butterworth,Science,,,212,211.0
+0844,Sports Academy: Lakeway,L3,8,Oliver McFadden,Reading,,,218,226.0
+0844,Sports Academy: Lakeway,L3,8,Oliver McFadden,Math,,,221,219.0
+0844,Sports Academy: Lakeway,L3,8,Oliver McFadden,Language,,,219,216.0
+0844,Sports Academy: Lakeway,L3,8,Oliver McFadden,Science,,,215,218.0
+0568,Sports Academy: Lakeway,L3,8,Silas Walker Roughton,Reading,251,238,234,243.0
+0568,Sports Academy: Lakeway,L3,8,Silas Walker Roughton,Math,254,245,250,264.0
+0568,Sports Academy: Lakeway,L3,8,Silas Walker Roughton,Language,243,236,236,245.0
+0568,Sports Academy: Lakeway,L3,8,Silas Walker Roughton,Science,246,240,250,253.0
+0761,Sports Academy: Lakeway,Linc,2,Corinne McGowan,Reading,,165,187,196.0
+0761,Sports Academy: Lakeway,Linc,2,Corinne McGowan,Math,,189,195,210.0
+0761,Sports Academy: Lakeway,Linc,2,Corinne McGowan,Language,,171,197,208.0
+0713,Sports Academy: Lakeway,Linc,2,Elizabella Hernandez,Reading,,163,181,190.0
+0713,Sports Academy: Lakeway,Linc,2,Elizabella Hernandez,Math,,171,184,196.0
+0713,Sports Academy: Lakeway,Linc,2,Elizabella Hernandez,Language,,160,168,189.0
+0868,Sports Academy: Lakeway,Linc,3,Levi Reeves,Reading,,,218,222.0
+0868,Sports Academy: Lakeway,Linc,3,Levi Reeves,Math,,,211,226.0
+0868,Sports Academy: Lakeway,Linc,3,Levi Reeves,Language,,,204,214.0
+0567,Sports Academy: Lakeway,Linc,2,Lucius Walker,Reading,208,200,202,218.0
+0567,Sports Academy: Lakeway,Linc,2,Lucius Walker,Math,215,204,217,219.0
+0567,Sports Academy: Lakeway,Linc,2,Lucius Walker,Language,,196,201,215.0
+0945,Sports Academy: Lakeway,LL,1,Jax Luebke,Reading,,,186,196.0
+0945,Sports Academy: Lakeway,LL,1,Jax Luebke,Math,,,198,203.0
+0764,Sports Academy: Lakeway,LL,1,North Griswold,Reading,,183,197,206.0
+0764,Sports Academy: Lakeway,LL,1,North Griswold,Math,,186,211,233.0
+5039,Texas Preparatory School,L1,4,Alfat Shirzoi Hamidi,Reading,,168,171,179.0
+5039,Texas Preparatory School,L1,4,Alfat Shirzoi Hamidi,Math,,179,194,204.0
+5039,Texas Preparatory School,L1,4,Alfat Shirzoi Hamidi,Language,,159,161,180.0
+5039,Texas Preparatory School,L1,4,Alfat Shirzoi Hamidi,Science,,170,173,180.0
+5030,Texas Preparatory School,L1,4,Alyieah Sneed,Reading,,186,198,199.0
+5030,Texas Preparatory School,L1,4,Alyieah Sneed,Math,,178,183,177.0
+5030,Texas Preparatory School,L1,4,Alyieah Sneed,Language,,185,191,194.0
+5030,Texas Preparatory School,L1,4,Alyieah Sneed,Science,,180,,191.0
+5028,Texas Preparatory School,L1,4,Amariah Johnson,Reading,,187,191,191.0
+5028,Texas Preparatory School,L1,4,Amariah Johnson,Math,,188,192,204.0
+5028,Texas Preparatory School,L1,4,Amariah Johnson,Language,,183,,189.0
+5028,Texas Preparatory School,L1,4,Amariah Johnson,Science,,174,191,191.0
+5022,Texas Preparatory School,L1,3,Angel Gonzalez-Romero,Reading,,167,175,181.0
+5022,Texas Preparatory School,L1,3,Angel Gonzalez-Romero,Math,,181,197,200.0
+5022,Texas Preparatory School,L1,3,Angel Gonzalez-Romero,Language,,169,187,194.0
+5022,Texas Preparatory School,L1,3,Angel Gonzalez-Romero,Science,,189,187,187.0
+5018,Texas Preparatory School,L1,3,Carla Tarra-Palacios,Reading,,154,148,159.0
+5018,Texas Preparatory School,L1,3,Carla Tarra-Palacios,Math,,170,180,189.0
+5018,Texas Preparatory School,L1,3,Carla Tarra-Palacios,Language,,153,149,154.0
+5018,Texas Preparatory School,L1,3,Carla Tarra-Palacios,Science,,173,169,171.0
+5041,Texas Preparatory School,L1,3,Dillinmar Lugo Marquez,Reading,,154,152,161.0
+5041,Texas Preparatory School,L1,3,Dillinmar Lugo Marquez,Math,,144,156,165.0
+5041,Texas Preparatory School,L1,3,Dillinmar Lugo Marquez,Language,,144,150,154.0
+5041,Texas Preparatory School,L1,3,Dillinmar Lugo Marquez,Science,,165,162,167.0
+0949,Texas Preparatory School,L1,3,Ezel Perez Nellar,Reading,,,206,218.0
+0949,Texas Preparatory School,L1,3,Ezel Perez Nellar,Math,,,199,207.0
+0949,Texas Preparatory School,L1,3,Ezel Perez Nellar,Language,,,202,217.0
+0949,Texas Preparatory School,L1,3,Ezel Perez Nellar,Science,,,204,201.0
+5019,Texas Preparatory School,L1,3,Jahde Hernandez-Ramos,Reading,,,159,174.0
+5019,Texas Preparatory School,L1,3,Jahde Hernandez-Ramos,Math,,,,168.0
+5019,Texas Preparatory School,L1,3,Jahde Hernandez-Ramos,Language,,,154,154.0
+5019,Texas Preparatory School,L1,3,Jahde Hernandez-Ramos,Science,,,170,173.0
+5027,Texas Preparatory School,L1,4,Jarius Collins,Reading,,185,177,189.0
+5027,Texas Preparatory School,L1,4,Jarius Collins,Math,,188,198,190.0
+5027,Texas Preparatory School,L1,4,Jarius Collins,Language,,170,165,177.0
+5027,Texas Preparatory School,L1,4,Jarius Collins,Science,,178,180,179.0
+5025,Texas Preparatory School,L1,3,Rafat Shirzoi Hamidi,Reading,,175,160,168.0
+5025,Texas Preparatory School,L1,3,Rafat Shirzoi Hamidi,Math,,160,173,182.0
+5025,Texas Preparatory School,L1,3,Rafat Shirzoi Hamidi,Language,,150,157,170.0
+5025,Texas Preparatory School,L1,3,Rafat Shirzoi Hamidi,Science,,169,166,172.0
+5058,Texas Preparatory School,L1,3,Raymond Allen,Reading,,156,154,164.0
+5058,Texas Preparatory School,L1,3,Raymond Allen,Math,,166,175,180.0
+5058,Texas Preparatory School,L1,3,Raymond Allen,Language,,149,159,163.0
+5058,Texas Preparatory School,L1,3,Raymond Allen,Science,,169,165,167.0
+0811,Texas Preparatory School,L1,2,Thiaggo Rodriguez,Reading,,,150,164.0
+0811,Texas Preparatory School,L1,2,Thiaggo Rodriguez,Math,,,160,179.0
+0811,Texas Preparatory School,L1,2,Thiaggo Rodriguez,Language,,,158,
+5051,Texas Preparatory School,L1,4,Ysabella Ramos,Reading,,169,193,197.0
+5051,Texas Preparatory School,L1,4,Ysabella Ramos,Math,,192,197,198.0
+5051,Texas Preparatory School,L1,4,Ysabella Ramos,Language,,167,188,193.0
+5051,Texas Preparatory School,L1,4,Ysabella Ramos,Science,,184,188,190.0
+5043,Texas Preparatory School,L2,6,Gabriel Leal Barrios,Reading,,165,179,214.0
+5043,Texas Preparatory School,L2,6,Gabriel Leal Barrios,Math,,182,196,213.0
+5043,Texas Preparatory School,L2,6,Gabriel Leal Barrios,Language,,172,170,187.0
+5043,Texas Preparatory School,L2,6,Gabriel Leal Barrios,Science,,188,192,207.0
+5038,Texas Preparatory School,L2,6,Gavin Johnson,Reading,,172,,214.0
+5038,Texas Preparatory School,L2,6,Gavin Johnson,Math,,197,208,212.0
+5038,Texas Preparatory School,L2,6,Gavin Johnson,Language,,176,199,206.0
+5038,Texas Preparatory School,L2,6,Gavin Johnson,Science,,183,194,206.0
+5059,Texas Preparatory School,L2,5,Isabella Payan,Reading,,164,196,218.0
+5059,Texas Preparatory School,L2,5,Isabella Payan,Math,,193,203,221.0
+5059,Texas Preparatory School,L2,5,Isabella Payan,Language,,190,185,206.0
+5059,Texas Preparatory School,L2,5,Isabella Payan,Science,,187,197,204.0
+5035,Texas Preparatory School,L2,5,Jalayah Washington,Reading,,202,206,210.0
+5035,Texas Preparatory School,L2,5,Jalayah Washington,Math,,191,183,192.0
+5035,Texas Preparatory School,L2,5,Jalayah Washington,Language,,,,207.0
+5035,Texas Preparatory School,L2,5,Jalayah Washington,Science,,195,199,201.0
+5034,Texas Preparatory School,L2,5,Johana D'Santiago-Verastegui,Reading,,163,170,207.0
+5034,Texas Preparatory School,L2,5,Johana D'Santiago-Verastegui,Math,,190,191,211.0
+5034,Texas Preparatory School,L2,5,Johana D'Santiago-Verastegui,Language,,166,177,172.0
+5034,Texas Preparatory School,L2,5,Johana D'Santiago-Verastegui,Science,,176,188,192.0
+5036,Texas Preparatory School,L2,5,Leoxinelys Campos-Ferrebus,Reading,,,175,181.0
+5036,Texas Preparatory School,L2,5,Leoxinelys Campos-Ferrebus,Math,,,196,202.0
+5036,Texas Preparatory School,L2,5,Leoxinelys Campos-Ferrebus,Language,,,182,200.0
+5036,Texas Preparatory School,L2,5,Leoxinelys Campos-Ferrebus,Science,,,185,202.0
+5037,Texas Preparatory School,L2,6,Mi'Kyi Alexander,Reading,,206,206,206.0
+5037,Texas Preparatory School,L2,6,Mi'Kyi Alexander,Math,,203,199,205.0
+5037,Texas Preparatory School,L2,6,Mi'Kyi Alexander,Language,,187,204,211.0
+5037,Texas Preparatory School,L2,6,Mi'Kyi Alexander,Science,,199,200,205.0
+5050,Texas Preparatory School,L2,5,Tanill Bills,Reading,,211,211,213.0
+5050,Texas Preparatory School,L2,5,Tanill Bills,Math,,186,184,199.0
+5050,Texas Preparatory School,L2,5,Tanill Bills,Language,,195,,210.0
+5050,Texas Preparatory School,L2,5,Tanill Bills,Science,,,212,210.0
+5033,Texas Preparatory School,L2,5,Terra'Nae Turner,Reading,,180,189,193.0
+5033,Texas Preparatory School,L2,5,Terra'Nae Turner,Math,,178,,185.0
+5033,Texas Preparatory School,L2,5,Terra'Nae Turner,Language,,167,,197.0
+5033,Texas Preparatory School,L2,5,Terra'Nae Turner,Science,,178,195,198.0
+5006,Texas Preparatory School,Linc,1,A'Leiah Jenkins,Reading,,152,159,169.0
+5006,Texas Preparatory School,Linc,1,A'Leiah Jenkins,Math,,139,162,174.0
+5011,Texas Preparatory School,Linc,1,Angel Marin Barrios,Reading,,128,126,136.0
+5011,Texas Preparatory School,Linc,1,Angel Marin Barrios,Math,,121,134,156.0
+5011,Texas Preparatory School,Linc,1,Angel Marin Barrios,Math,,121,148,156.0
+5012,Texas Preparatory School,Linc,1,Aryia Lott,Reading,,146,166,166.0
+5012,Texas Preparatory School,Linc,1,Aryia Lott,Math,,150,168,170.0
+5014,Texas Preparatory School,Linc,1,Faustina Ngambo-Kialengele,Reading,,130,,167.0
+5014,Texas Preparatory School,Linc,1,Faustina Ngambo-Kialengele,Math,,138,148,175.0
+5013,Texas Preparatory School,Linc,1,Ja’Zaiah Wilburn,Reading,,,160,168.0
+5013,Texas Preparatory School,Linc,1,Ja’Zaiah Wilburn,Math,,,167,179.0
+5002,Texas Preparatory School,Linc,1,Jurnee Bolden,Reading,,165,,
+5002,Texas Preparatory School,Linc,1,Jurnee Bolden,Math,,157,,
+5010,Texas Preparatory School,Linc,1,Justin Wooley,Reading,,127,133,140.0
+5010,Texas Preparatory School,Linc,1,Justin Wooley,Math,,129,141,153.0
+5015,Texas Preparatory School,Linc,2,Kamila Gonzalez-Romero,Reading,,148,159,169.0
+5015,Texas Preparatory School,Linc,2,Kamila Gonzalez-Romero,Math,,159,170,174.0
+5015,Texas Preparatory School,Linc,2,Kamila Gonzalez-Romero,Language,,,,
+5007,Texas Preparatory School,Linc,1,Mason Mckinney,Reading,,128,149,152.0
+5007,Texas Preparatory School,Linc,1,Mason Mckinney,Math,,135,151,159.0
+5005,Texas Preparatory School,Linc,1,Mya Hadnot,Reading,,162,173,186.0
+5005,Texas Preparatory School,Linc,1,Mya Hadnot,Math,,170,178,185.0
+5020,Texas Preparatory School,Linc,2,Nehemiah Wilburn,Reading,,172,185,186.0
+5020,Texas Preparatory School,Linc,2,Nehemiah Wilburn,Math,,179,191,198.0
+5020,Texas Preparatory School,Linc,2,Nehemiah Wilburn,Language,,169,181,180.0
+5016,Texas Preparatory School,Linc,2,Shamiya Johnson,Reading,,140,157,165.0
+5016,Texas Preparatory School,Linc,2,Shamiya Johnson,Math,,160,176,183.0
+5016,Texas Preparatory School,Linc,2,Shamiya Johnson,Language,,,,
+5004,Texas Preparatory School,Linc,1,Sir'Kanden Freeman,Reading,,143,157,171.0
+5004,Texas Preparatory School,Linc,1,Sir'Kanden Freeman,Math,,146,163,172.0
+5008,Texas Preparatory School,Linc,1,Treyon Toussaint,Reading,,154,164,173.0
+5008,Texas Preparatory School,Linc,1,Treyon Toussaint,Math,,163,174,195.0
+5003,Texas Preparatory School,Linc,1,Victor Elias-Galeana,Reading,,129,130,143.0
+5003,Texas Preparatory School,Linc,1,Victor Elias-Galeana,Math,,126,149,148.0
+5003,Texas Preparatory School,Linc,1,Victor Elias-Galeana,Math,,,139,148.0
+5021,Texas Preparatory School,Linc,2,Victoria Marrin Barrios,Reading,,127,134,166.0
+5021,Texas Preparatory School,Linc,2,Victoria Marrin Barrios,Math,,132,156,176.0
+5021,Texas Preparatory School,Linc,2,Victoria Marrin Barrios,Math,,,169,176.0
+5021,Texas Preparatory School,Linc,2,Victoria Marrin Barrios,Language,,,168,
+1926,Texas Preparatory School,LL,1,Anthonella Ochoa,Reading,,,,136.0
+1926,Texas Preparatory School,LL,1,Anthonella Ochoa,Math,,,,165.0
+5070,Texas Preparatory School,LL,1,Ca'hlani Lewis,Reading,,,168,181.0
+5070,Texas Preparatory School,LL,1,Ca'hlani Lewis,Math,,,170,179.0
+5001,Texas Preparatory School,LL,K,Hafsah Shirzoi Hamidi,Reading,,129,150,157.0
+5001,Texas Preparatory School,LL,K,Hafsah Shirzoi Hamidi,Math,,146,157,161.0
+5068,Texas Preparatory School,LL,1,King Resendez,Reading,,,,145.0
+5068,Texas Preparatory School,LL,1,King Resendez,Math,,,155,161.0
+5069,Texas Preparatory School,LL,1,Londynn Brown,Reading,,,148,156.0
+5069,Texas Preparatory School,LL,1,Londynn Brown,Math,,,146,162.0
+5060,Texas Preparatory School,LL,1,Lovely Simon,Reading,,137,154,156.0
+5060,Texas Preparatory School,LL,1,Lovely Simon,Math,,133,146,163.0
+5065,Texas Preparatory School,LL,K,Maritza Maldonado-Rafaela,Reading,,137,143,157.0
+5065,Texas Preparatory School,LL,K,Maritza Maldonado-Rafaela,Math,,128,151,156.0
+5057,Texas Preparatory School,LL,1,Megan Chukwura,Reading,,135,161,170.0
+5057,Texas Preparatory School,LL,1,Megan Chukwura,Math,,146,160,174.0
+5064,Texas Preparatory School,LL,1,Monica Maldonado-Rafaela,Reading,,133,145,151.0
+5064,Texas Preparatory School,LL,1,Monica Maldonado-Rafaela,Math,,131,152,163.0
+5054,Texas Preparatory School,LL,1,Sofia Cruz-Peralta,Reading,,126,131,159.0
+5054,Texas Preparatory School,LL,1,Sofia Cruz-Peralta,Math,,132,147,159.0
+5054,Texas Preparatory School,LL,1,Sofia Cruz-Peralta,Math,,132,147,159.0
+0959,Texas Preparatory School,L2,5,Helio Ortiz,Reading,,,,209.0
+0959,Texas Preparatory School,L2,5,Helio Ortiz,Math,,,,213.0
+0959,Texas Preparatory School,L2,5,Helio Ortiz,Language,,,,214.0
+0959,Texas Preparatory School,L2,5,Helio Ortiz,Science,,,,208.0
+0982,Texas Preparatory School,L2,6,Chloe Sperb Machado Neto,Reading,,,219,232.0
+0982,Texas Preparatory School,L2,6,Chloe Sperb Machado Neto,Math,,,208,210.0
+0982,Texas Preparatory School,L2,6,Chloe Sperb Machado Neto,Language,,,221,223.0
+0982,Texas Preparatory School,L2,6,Chloe Sperb Machado Neto,Science,,,219,213.0
+0842,Single-user 2hr learning,L2,5,Airi Elliott,Reading,,,198,
+0842,Single-user 2hr learning,L2,5,Airi Elliott,Math,,,197,
+0842,Single-user 2hr learning,L2,5,Airi Elliott,Language,,,200,
+0842,Single-user 2hr learning,L2,5,Airi Elliott,Science,,,207,
+0788,Single-user 2hr learning,L2,5,Alannah Brie Carrion,Reading,,,221,223.0
+0788,Single-user 2hr learning,L2,5,Alannah Brie Carrion,Math,,,216,215.0
+0788,Single-user 2hr learning,L2,5,Alannah Brie Carrion,Language,,,210,210.0
+0788,Single-user 2hr learning,L2,5,Alannah Brie Carrion,Science,,,209,216.0
+0897,Single-user 2hr learning,L1,3,Alexander Wiebeck,Reading,,,224,234.0
+0897,Single-user 2hr learning,L1,3,Alexander Wiebeck,Math,,,221,233.0
+0897,Single-user 2hr learning,L1,3,Alexander Wiebeck,Language,,,217,228.0
+0897,Single-user 2hr learning,L1,3,Alexander Wiebeck,Science,,,219,224.0
+0783,Single-user 2hr learning,L3,7,Amelia Catherine Lucas,Reading,,233,238,249.0
+0783,Single-user 2hr learning,L3,7,Amelia Catherine Lucas,Math,,253,245,253.0
+0783,Single-user 2hr learning,L3,7,Amelia Catherine Lucas,Language,,235,239,243.0
+0783,Single-user 2hr learning,L3,7,Amelia Catherine Lucas,Science,,229,237,233.0
+0950,Single-user 2hr learning,L1,3,Ariel Martel,Reading,,,204,224.0
+0950,Single-user 2hr learning,L1,3,Ariel Martel,Math,,,205,221.0
+0950,Single-user 2hr learning,L1,3,Ariel Martel,Language,,,204,216.0
+0950,Single-user 2hr learning,L1,3,Ariel Martel,Science,,,202,215.0
+2262,Single-user 2hr learning,L3,7,Ava Rosellini,Reading,,,,231.0
+2262,Single-user 2hr learning,L3,7,Ava Rosellini,Math,,,,244.0
+2262,Single-user 2hr learning,L3,7,Ava Rosellini,Language,,,,232.0
+2262,Single-user 2hr learning,L3,7,Ava Rosellini,Science,,,,223.0
+0779,Single-user 2hr learning,L2,6,Bailey-Grace Davis,Reading,,220,,
+0779,Single-user 2hr learning,L2,6,Bailey-Grace Davis,Math,,198,,
+0779,Single-user 2hr learning,L2,6,Bailey-Grace Davis,Language,,227,,
+0779,Single-user 2hr learning,L2,6,Bailey-Grace Davis,Science,,202,,
+2389,Single-user 2hr learning,L2,4,Beckett Stares,Reading,,,,214.0
+2389,Single-user 2hr learning,L2,4,Beckett Stares,Math,,,,224.0
+2389,Single-user 2hr learning,L2,4,Beckett Stares,Language,,,,214.0
+2389,Single-user 2hr learning,L2,4,Beckett Stares,Science,,,,208.0
+0375,Single-user 2hr learning,Linc,2,Brett Noel,Reading,202,198,212,209.0
+0375,Single-user 2hr learning,Linc,2,Brett Noel,Math,205,202,202,215.0
+0375,Single-user 2hr learning,Linc,2,Brett Noel,Language,,203,206,210.0
+2387,Single-user 2hr learning,L2,5,Cami Aguilar,Reading,,,,
+2387,Single-user 2hr learning,L2,5,Cami Aguilar,Math,,,,207.0
+2387,Single-user 2hr learning,L2,5,Cami Aguilar,Language,,,,224.0
+2387,Single-user 2hr learning,L2,5,Cami Aguilar,Science,,,,211.0
+2556,Single-user 2hr learning,L3,8,Dash Dowell,Reading,,,,
+2556,Single-user 2hr learning,L3,8,Dash Dowell,Math,,,,
+2556,Single-user 2hr learning,L3,8,Dash Dowell,Language,,,,
+2556,Single-user 2hr learning,L3,8,Dash Dowell,Science,,,,
+0798,Single-user 2hr learning,L2,5,Diana Kostov,Reading,,,229,230.0
+0798,Single-user 2hr learning,L2,5,Diana Kostov,Math,,,221,240.0
+0798,Single-user 2hr learning,L2,5,Diana Kostov,Language,,,223,225.0
+0798,Single-user 2hr learning,L2,5,Diana Kostov,Science,,,215,221.0
+0771,Single-user 2hr learning,L1,4,Gray Duffy,Reading,,219,233,246.0
+0771,Single-user 2hr learning,L1,4,Gray Duffy,Math,,216,231,247.0
+0771,Single-user 2hr learning,L1,4,Gray Duffy,Language,,225,240,251.0
+0771,Single-user 2hr learning,L1,4,Gray Duffy,Science,,220,225,234.0
+1970,Single-user 2hr learning,L1,4,Hendrix Smith,Reading,,,,218.0
+1970,Single-user 2hr learning,L1,4,Hendrix Smith,Math,,,,225.0
+1970,Single-user 2hr learning,L1,4,Hendrix Smith,Language,,,,215.0
+1970,Single-user 2hr learning,L1,4,Hendrix Smith,Science,,,,219.0
+1918,Single-user 2hr learning,L1,3,Jack Porto,Reading,,,,217.0
+1918,Single-user 2hr learning,L1,3,Jack Porto,Math,,,,219.0
+1918,Single-user 2hr learning,L1,3,Jack Porto,Language,,,,216.0
+1918,Single-user 2hr learning,L1,3,Jack Porto,Science,,,,219.0
+0789,Single-user 2hr learning,L1,4,Jack Wesley Henry,Reading,,,210,212.0
+0789,Single-user 2hr learning,L1,4,Jack Wesley Henry,Math,,,201,211.0
+0789,Single-user 2hr learning,L1,4,Jack Wesley Henry,Language,,,203,209.0
+0789,Single-user 2hr learning,L1,4,Jack Wesley Henry,Science,,,215,211.0
+0786,Single-user 2hr learning,L1,4,Joanna Victorian,Reading,,208,200,206.0
+0786,Single-user 2hr learning,L1,4,Joanna Victorian,Math,,203,200,201.0
+0786,Single-user 2hr learning,L1,4,Joanna Victorian,Language,,207,207,208.0
+0786,Single-user 2hr learning,L1,4,Joanna Victorian,Science,,189,196,201.0
+2260,Single-user 2hr learning,L2,5,Kane Shaw,Reading,,,,207.0
+2260,Single-user 2hr learning,L2,5,Kane Shaw,Math,,,,222.0
+2260,Single-user 2hr learning,L2,5,Kane Shaw,Language,,,,196.0
+2260,Single-user 2hr learning,L2,5,Kane Shaw,Science,,,,202.0
+0913,Single-user 2hr learning,Linc,2,Kinzie Campbell,Reading,,,199,191.0
+0913,Single-user 2hr learning,Linc,2,Kinzie Campbell,Math,,,189,189.0
+0913,Single-user 2hr learning,Linc,2,Kinzie Campbell,Language,,,175,
+0777,Single-user 2hr learning,L2,5,Knox Martin Wheeler,Reading,,242,215,211.0
+0777,Single-user 2hr learning,L2,5,Knox Martin Wheeler,Math,,225,207,213.0
+0777,Single-user 2hr learning,L2,5,Knox Martin Wheeler,Language,,227,214,210.0
+0777,Single-user 2hr learning,L2,5,Knox Martin Wheeler,Science,,228,204,200.0
+1972,Single-user 2hr learning,L1,3,Legend Smith,Reading,,,,202.0
+1972,Single-user 2hr learning,L1,3,Legend Smith,Math,,,,215.0
+1972,Single-user 2hr learning,L1,3,Legend Smith,Language,,,,207.0
+1972,Single-user 2hr learning,L1,3,Legend Smith,Science,,,,190.0
+1924,Single-user 2hr learning,L2,5,Leyson Bryant,Reading,,,,226.0
+1924,Single-user 2hr learning,L2,5,Leyson Bryant,Math,,,,247.0
+1924,Single-user 2hr learning,L2,5,Leyson Bryant,Language,,,,240.0
+1924,Single-user 2hr learning,L2,5,Leyson Bryant,Science,,,,240.0
+2261,Single-user 2hr learning,L3,7,Mason Rosellini,Reading,,,,241.0
+2261,Single-user 2hr learning,L3,7,Mason Rosellini,Math,,,,251.0
+2261,Single-user 2hr learning,L3,7,Mason Rosellini,Language,,,,234.0
+2261,Single-user 2hr learning,L3,7,Mason Rosellini,Science,,,,226.0
+0912,Single-user 2hr learning,L1,4,Meela Campbell,Reading,,,200,199.0
+0912,Single-user 2hr learning,L1,4,Meela Campbell,Math,,,204,210.0
+0912,Single-user 2hr learning,L1,4,Meela Campbell,Language,,,194,201.0
+0912,Single-user 2hr learning,L1,4,Meela Campbell,Science,,,178,181.0
+0609,Single-user 2hr learning,LL,1,Milam Morgan,Reading,187,195,210,201.0
+0609,Single-user 2hr learning,LL,1,Milam Morgan,Math,197,189,201,204.0
+0790,Single-user 2hr learning,Linc,2,Patrick Owen Henry,Reading,,,186,191.0
+0790,Single-user 2hr learning,Linc,2,Patrick Owen Henry,Math,,,187,198.0
+0790,Single-user 2hr learning,Linc,2,Patrick Owen Henry,Language,,,173,183.0
+0780,Single-user 2hr learning,L1,4,Roman-Parker Davis,Reading,,,,
+0780,Single-user 2hr learning,L1,4,Roman-Parker Davis,Math,,198,,
+0780,Single-user 2hr learning,L1,4,Roman-Parker Davis,Language,,197,,
+0780,Single-user 2hr learning,L1,4,Roman-Parker Davis,Science,,191,,
+1917,Single-user 2hr learning,L1,4,Ryan Porto,Reading,,,,227.0
+1917,Single-user 2hr learning,L1,4,Ryan Porto,Math,,,,223.0
+1917,Single-user 2hr learning,L1,4,Ryan Porto,Language,,,,221.0
+1917,Single-user 2hr learning,L1,4,Ryan Porto,Science,,,,216.0
+1923,Single-user 2hr learning,L1,3,Sawyer Bryant,Reading,,,,157.0
+1923,Single-user 2hr learning,L1,3,Sawyer Bryant,Math,,,,208.0
+1923,Single-user 2hr learning,L1,3,Sawyer Bryant,Language,,,,173.0
+1923,Single-user 2hr learning,L1,3,Sawyer Bryant,Science,,,,177.0
+0208,Single-user 2hr learning,L1,4,Scotty Noel,Reading,,218,222,214.0
+0208,Single-user 2hr learning,L1,4,Scotty Noel,Math,,207,219,215.0
+0208,Single-user 2hr learning,L1,4,Scotty Noel,Language,,218,214,214.0
+0208,Single-user 2hr learning,L1,4,Scotty Noel,Science,,209,216,218.0
+0833,Single-user 2hr learning,L1,4,Shepherd Rogers Mora,Reading,,,,
+0833,Single-user 2hr learning,L1,4,Shepherd Rogers Mora,Math,,,,
+0833,Single-user 2hr learning,L1,4,Shepherd Rogers Mora,Language,,,,
+0833,Single-user 2hr learning,L1,4,Shepherd Rogers Mora,Science,,,,
+2388,Single-user 2hr learning,L2,6,Sully Stares,Reading,,,,216.0
+2388,Single-user 2hr learning,L2,6,Sully Stares,Math,,,,233.0
+2388,Single-user 2hr learning,L2,6,Sully Stares,Language,,,,217.0
+2388,Single-user 2hr learning,L2,6,Sully Stares,Science,,,,215.0
+0787,Single-user 2hr learning,L3,7,Tatiana Lynn Carrion,Reading,,,234,237.0
+0787,Single-user 2hr learning,L3,7,Tatiana Lynn Carrion,Math,,,228,241.0
+0787,Single-user 2hr learning,L3,7,Tatiana Lynn Carrion,Language,,,225,232.0
+0787,Single-user 2hr learning,L3,7,Tatiana Lynn Carrion,Science,,,222,226.0
+2541,Single-user 2hr learning,L1,4,Warren Meyer,Reading,,,,228.0
+2541,Single-user 2hr learning,L1,4,Warren Meyer,Math,,,,225.0
+2541,Single-user 2hr learning,L1,4,Warren Meyer,Language,,,,227.0
+2541,Single-user 2hr learning,L1,4,Warren Meyer,Science,,,,220.0

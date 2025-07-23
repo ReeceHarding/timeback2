@@ -1,0 +1,372 @@
+[Speaker 1]
+Right, here's the page that takes us into and every time you
+
+[Speaker 3]
+Yeah, you mean like the questionnaire, right
+
+[Speaker 2]
+Yeah, usually you go on Instagram you click on the ad the ad brings you to a questionnaire It gets you like it's beautiful because it gets you like nine questions deep and then at the end Yeah, they ask for your email And you're like 15 minutes in and you're like, I want to know my answer
+
+[Speaker 1]
+We want to make sure we're not there That's the one thing I don't want Every time you click I want it to regenerate Right Right, just quick regeneration So you can go boom boom boom And here's mentally in my head We're selling We create a personalized Lesson Based exactly on what they know and don't know And we're going to create a personalized web page And web experience based on what they know And don't know So you can just sit here and say Look how easy this was
+
+[Speaker 2]
+DDoS, like send like millions of requests to this site and run up like the usage. Figure that out when it comes, okay. Okay.
+
+Yeah, and then for the UI, the one thing that I'm thinking of is like I've done this before. With like, but the only way I figured out how to do it is you create like the structure of a website and then generate the content that like goes in the h1, h2, yada, yada. I haven't been able to figure out how to like dynamically generate the like novel structure as you go along.
+
+[Speaker 1]
+Sure, so just do version 1, just do with what you can do now, and then we'll see if it ever, yeah, it's good enough to generate the structure a little bit, but if you're just generating the, you know.
+
+[Speaker 2]
+You can just have like a few pre-built. Okay, cool. And then when do you want this like ready by?
+
+[Speaker 1]
+Sooner the better, but that's not. You know, the 31st. The end of this month.
+
+There's, what are the dates that matter? The 31st, the 15th, and then the 24th. August.
+
+The 15th of August, the 24th of August. So, the end of this month is all the guides are starting. And we start guide training.
+
+And so, having it for like, hey, time out. Because we're gonna have some parents involved. And then, that's the end of the month.
+
+And then the 14th is, we're telling all the parents on August 14th that your kid's gonna be tied back for sure. And then the 24th is the big month of November.
+
+[Speaker 2]
+Everybody in the U.S. is gonna be tied back. So, by the 14th, for sure. Ideally, by the 31st.
+
+I think, probably, like, MVP by the 31st. And then production ready by...try production ready by the 7th. Wait, you guys will be gone?
+
+When do you guys leave?
+
+[Speaker 4]
+Some of us, I think, are going to do during the school year online. I'll still be around. I'll be around in Stanford.
+
+[Speaker 1]
+Okay, cool!
+
+[Speaker 2]
+Probably by that point.
+
+[Speaker 1]
+Totally! Yeah!
+
+[Speaker 3]
+But then, is this the when you submit your test?
+
+[Speaker 1]
+We have time to nail it. Yeah, well, I agree with this. We will want to be collecting emails on the new website as well.
+
+But if you can make this website and collect emails. So, the email collection is what I want. So, right now, it's just email collection.
+
+The way to think about it is, it's an email collection site today with one message. You're gonna build this dynamic site that educates the shit out of it. We'll figure it out.
+
+We can test it. We're actually gonna ask people to engage with the website. That will be the information that we find.
+
+And that will be built into the profile. What do the student builders think of the Cohort 2?
+
+[Speaker 2]
+They're really good. Really fucking good.
+
+[Speaker 1]
+Really?
+
+[Speaker 2]
+Yeah, I'd say the median Cohort 2 is like top 5 to 10% in Cohort 1. Well, in terms of technical ability, because they're all coming from Apple. They're coming from Google.
+
+They're coming from Amazon. And then you let them use AI and it's like, holy shit. These people are like, they can build all this shit by hand.
+
+And then you just super power that. Whereas a lot of us, it's like, I don't know, probably half of Cohort 1 didn't have much technical experience. So, we can kind of figure it out along the way.
+
+But like, does that make sense? You take someone from fucking Apple.
+
+[Speaker 1]
+We were trying to figure out things. We raised the standards. They're so good.
+
+No.
+
+[Speaker 2]
+They're so bad. Were you there? No, you weren't there.
+
+The first night. They all fucking went to bed. They sat by themselves for an hour and then all went to their rooms.
+
+So, at the end of the night, it was like me, Austin, and like a bunch of Cohort 1 guys, plus like one Cohort 2 dude, just like chilling and talking. Did you miss coding? Because you coded a lot.
+
+Even my first year coming out. I kind of feel like you are vibe coding, but at such a high level of abstraction, where you're like vibe coding humans. And you're like, okay, here's like ten projects that are important.
+
+You guys figure it out. You figure out debugging. Like, we're like a bunch of cursor terminals to you.
+
+[Speaker 1]
+Yes. My organization, it's how do you go to escape when you have it is different now with what humans used to be able to do versus super powerful humans and how do you organize? And I think it's going to be totally different.
+
+That's definitely part of what we're trying to do. You know, how do you get massive scale with a few AI companies. Do you think the solution is going to be now that you're so much flexible, or it's now it's a big organization, but somehow it ever becomes that?
+
+Yeah, it's just what it will depend is the people who are going to win are the people with agency and willingness to be the world expert. Like, there's a set of people who are like, I don't want to be the world expert, I just want to do it. But the people who are like, I want to be an expert.
+
+Like, it's why we have UNESCO, the world expert, and why brain medicine and all that stuff. So, the people who love that are just going to have superpowers. And so when I look at a big organization, as many of those people who want to be experts are going to keep doing it.
+
+And the people who are like, I'm going to create alpha, you're just going to be AI is just going to have superpowers. But the people who are at the top are the people who are like, I'm going to keep pushing the boundaries. Right?
+
+No matter what dimensions they're in. And so, when I look at more, as many of those people, it's why, like, consumer groups, we sit there and like, basically, you know, the evaluation of people is, do you have a billion dollar business that's making a ton of money? If you don't have that, are you becoming an expert in that area?
+
+Right? And reflecting it in your brain throughout the day. Because that is the looming industry.
+
+And so, and there's, you know, there's just some people who don't want to, who aren't self-driven to spend an hour a day and become an expert. But generally, the people who don't want to become a part of that, and so forth. But no, the software companies just bought a big software company.
+
+They sat there and were like, they do pay for it. Which is... Yeah, where you can pay, yes.
+
+Except we pay more, even for sort of whatever the government minimum is. We literally, it's more like Zappos used to do, if you ever hear that one, where he'd hire you in 30 days and you'd get a job. These are for call center people.
+
+You can't hire five or ten people. And so, it was like, if you want, totally accept it. Right?
+
+You can totally just take the money. So, when we buy a company, we do that same thing. So, and it was all this AI purge that spent 600 million dollars.
+
+Instead of the people who are left. The cultures. So, AI is gonna change everything.
+
+It's just, are you a victim? And this is what I think kids are gonna be told. Because it lets you beat everything.
+
+Every kid can have the expertise. The wisdom is useless. It's kids who really want to sit there and say, they need an expert.
+
+They need an expert class. They need to be able to do it. And the energy to stay at the deep end.
+
+So, there are, you know, every year they're gaining their advantage. And so, but the trick, there's gonna be a lot of people who are using digital products. But if you're a young person, it's like, yeah, get on the front end.
+
+It's being like the extrinsic of it. Like this idea of doing something you've learned lifelong. And now we have the extrinsic motivations.
+
+I feel like a lot of people are gonna be happy with it. Being, everybody wants to be a creator now. And you can get trapped and be a consumer.
+
+But everybody who is a creator has to be a consumer. Consumers do that. Regret it.
+
+I'm making a promise. Everybody says it's extrinsic. When I was a kid, it was fun.
+
+It was just something different. With the boom tube, it was mindless shows. And your generation really watched the TV and stuff like that.
+
+With the people who sat and watched TV, they weren't finding that unique. And AI lets you be a creator. Easier and better.
+
+But if you're not, you know, if you're like a Uber driver in Austin, you have to talk to a bunch of them. I don't know how to coach you but you have to be better at it. No, no, no.
+
+People do not want to keep a driver. I know you are like, they literally have an idea. You know like the way most of them ask for tips.
+
+And you're like, oh, really? There's a thousand reasons. And it's all coming.
+
+And so it's just those Uber drivers now, they should start buying code and doing all this stuff and figuring out how to transition. And if they do, it'll be awesome. And if they don't, they're gonna go back and do what they have to do.
+
+And you just don't want to do what you have to do. And I mean teachers, it's the same thing. Our guys are like, this is awesome.
+
+Even though people do it, there's teachers. But this is so much better. And so we need to tend to that.
+
+But if you're like, I'm just gonna do that. This sucks. We can wake up one day and not do it.
+
+That's where I just sit down. Because I can see it coming. And I just want to do it.
+
+And every night we talk about it. I mean he's brilliant. He took like thirty APs.
+
+He was self-studying them. And it's tough. I mean I'll get the real curve.
+
+But I think it's tough because some people do love the teaching. And maybe they don't realize it until they get it. There's definitely other co-workers that do love it.
+
+There can only be the last man standing. Because it will be some curve. And the best teachers are gonna be the most trained.
+
+There is the point to that. You're like, I am gonna be on that part of the curve. And you want to create a data set, a post-training data set, of the best way that you can get.
+
+And you need an expert in that. So there are, it's just not a lot. You know my one of my good friend's daughter is a huge black woman.
+
+She went to St. Lawrence up on this coast. Now she's in college. But at the same time she's from Chicago.
+
+And he's just like, she's fucked. I mean where is she going with this? And you know there it is.
+
+But she's gonna like be unemployed.
+
+[Speaker 5]
+You know about AI what career she's in?
+
+[Speaker 1]
+She'll be a teacher at St. Lawrence. I mean there's a set of, at least her friend's gonna be a teacher. But I mean it's a very key job.
+
+And whatever class. You know what's all this about? Yeah.
+
+But anyway, yeah, so everything's gonna be a time of change. It's better for kids and young people. It's bad.
+
+What is like a day in the life for you? Like what do you do during these days? I've certainly been in a big organization.
+
+I do an hour every day. We do great work. We get an endless stream.
+
+Right. And you know it's filtered on what I do best. And what is that for you right now?
+
+Well it depends. You know on the educational side there's a bunch of still learning science stuff. We're right on the head line that I'm proud of being able to do that for recruiting all the best learning scientists.
+
+So there's sort of that. The second part is we're trying to decide if we have to train on LLM, which is a big technical decision that I am clueless about. So I'm trying to sort of speed it on.
+
+Do I really think a post trained LLM is gonna be a model that comes from versus a foundation model. I'm doing that. And then I'm working on scaling schools.
+
+Sort of a whole set of people who build chains of schools. Because it has alpha groups. And so it's my set of those kind of things.
+
+And then I get a bunch of super builders doing all their projects. A little bit of writing. But in six months ago I was spending a long time on that.
+
+And so that was about we had to figure out how do you build schools. This summer concert series I think we had it done in six weeks. And so we're working through on, you know, most schools take six years to build.
+
+We were trying for six months, but I think we have six weeks. This whole concept of get the high end influence. Get a high end influence or write and generate leads.
+
+We're getting thirty percent. And then we're going to go to a new procession to enroll the students. So we're rolling that out.
+
+We launched a Montessori which is a Montessori school. Two hour learning with Montessori. We do a GT school.
+
+So we have all of those. So it's the same model. But if it does we'll have to figure out how to do this.
+
+We know how to build a school. A physical school. That completely changes all of this.
+
+How fast you can work. So there's a slide that's based on space composition. And like I said, this is not in the books.
+
+Partially because it's a work. When you're doing your writing, do anything to get some attention to it? So our whole model is how do you read these things?
+
+Transcribing these somehow into the brain that puts it in your scheme. For me it's, I create the idea and then I take things and I read it. And then I summarize and figure out where it's in my terms.
+
+That's the learning part. I think one of my biggest takeaways is I'm a workflow native now. I do all of my reading updates.
+
+If I'm not taking notes, it's like I'm an actual math learner. And one of the things you'll realize with the DOP is as you're creating your workflows, you're learning more. Like three years ago I had a machine learn how to do it.
+
+So you're just getting all this stuff. And then where are we all? So if we're three months out, you're reorganizing.
+
+It's like, oh, it's all wrong. This is how I want to organize it. And all that work is where your articulating or solidifying your knowledge.
+
+You're like, ah, this is it. This is the hierarchy and the framework where I look at it. And then when you write your DOP or spike point review is when you're able to articulate it.
+
+I'm a donor. So I know what everybody else thinks. And I know why I have a different view.
+
+There's some contrary to the current knowledge. That's why I can sit and talk with the board of learning and science experts and talk about our own. Because we have all this crazy spike point review.
+
+There's always like a big trade off. You know, it's war. It's not a war.
+
+If you pay it, they always want to write this stuff. There's no trade off. It's just 25% and they have never thought to take the deal from spike point review.
+
+Two hierarchies. Matt Ridley. I don't know if you've heard of Matt Ridley.
+
+Matt Ridley is awesome. He's a rational optimist. And he talks about ideas having sex.
+
+And it's very much like take these two hierarchies. It's why universities always want interdisciplinary. Going deeper doesn't help it.
+
+And it's the intersection of the three. And if you're doing an expert on all three, you just all of a sudden, you can spit out spike point review all day long. There's no innovation.
+
+And that's when you know. You're like, okay, I need to get deeper in a stack. And then, okay, now I know enough in a couple stacks.
+
+Being top 10% in two stacks is more valuable than being top 1% in two stacks. Because you merge the two stacks. For us, I look at all the LLMs. So I look at education, open AI, and I look at them all and they're one stack. They're so much deeper than I am. But I'm like, you literally have no learnings. It's just totally terrible.
+
+I can be top 10% in one stack. I can be top 10% in the LLM. And in fact, one way that they're valued should be built around proprietary.
+
+Always build in proprietary. Do I have a spike point review of why this is one of the most important technical decisions that I can end? Can I own it?
+
+Can I own this tech dip? And when you look at the other guys, here's the question on learning science. I know I can build a learning science that's better than this.
+
+But in the generation 18 months from now, after it's thrown more computing. The AIs are getting so fucking smart. I was having a post training.
+
+The famous one was two years ago, Bloomberg took all their financial models, 3.5, GBT 3.5, post trained it, and it was the best financial model. Bloomberg, all their shit. But GBT 4 actually knew everything Bloomberg.
+
+It was better than the post training 3.5. Because the models just get so much better. And I just, I don't, you're trying to predict. You're trying to predict on whether it is.
+
+But one of my things is I was prompting when you uploaded Alpha's math scores. And if you read my daughter's sub stack, her last prompt was basically like you know, Alpha does this with an AI tutor based on learning science. Is she using AI to do some of the writing?
+
+Well this one particularly, the last one, she quotes from all the AIs. Because she uploads them and just says compare this to the best scores. And here's why.
+
+And it's deep insight into why we're better. It was really impressive. I think there's 10 people in the world who are at my level to get those answers.
+
+And AI came in. I always talk about how AI means the half of your knowledge in a few years or 10 years. And I was like, oh my God, my last three years of expertise is like absolutely not what I thought.
+
+And then going forward, I'm still in hell on what learning science can't do. But her last prompt was like this AI is built on learning science, it's built on these principles. You know, give me, is this possible?
+
+This seems impossible. Explain why this could be true in just two hours a day. And it's answer, it missed a couple things that really matter in learning science.
+
+But it was pretty fucking close of like shit. And I'm like, it's going to have incorporated enough stuff where you could then tell the LLM, okay, you know everything about learning science, now generate a tour based on that would make, you know, learning science based. And so I don't know.
+
+Anyway, that's the question. I could spend $50 million on that. Figure it out more.
+
+You either have to ride the wave and we take advantage of it. Like our vision model that watches the screen to become a new LLM. It gives us better inbound answers.
+
+Coaches the kid now. So we're riding that wave. But if we do this which is what we need.
+
+And there's a famous paper called The Bitter Truth or The Bitter Lesson. Which is everybody thinks adding your own smarts to an LLM is the right answer. And the answer is no, just give it bigger computers.
+
+And so the bigger models. Everybody tries to be smart. And you eventually wake up and the bitter truth is just give it more data.
+
+Yeah! Go back to my brain. There's every, you know, there's a good sub stack.
+
+Like we have seven of the ten best. You hired a sub stack? We hired the best learning scientists.
+
+So we our working sessions around learning science are the best. It's the equivalent. We have the open AI.
+
+LLM team. And so everything that's being done in the world research one of our team. But there's tons of new stuff.
+
+There's tons of awesome stuff. We have a ton of stuff that we publish. We're going to it's like it sort of got discredited.
+
+Our data set is the most valuable data set. We need to bring it to scale. There's half a lab.
+
+We have the best learning scientists. Yeah, one of the things we're trying to decide this summer is all the Ivy Leagues want access to our data. So I'm thinking about hiring PhDs from each Ivy League.
+
+We pay, get PhDs from every, we do a joint research with each Ivy League school. Yeah, it's not really, if you're not convinced by the current stuff, for us, it's more we do get more out of doing it, but more importantly we get a pipeline where the president of DARPA is like, I'm going to make a donation to fund PhDs to do this. And all the Ivy Leagues are like, holy shit.
+
+We just scrolled out of that. We can take three of them. We're using it to juice all the Ivy Leagues.
+
+We can get like, our SATs, right, we have a 1410 SAT. So if that doesn't convince you, this extra learning assignment, Harvard's issued a paper that says AI tutors are better than Harvard tutors. So I'll have five more like that.
+
+But all Stanford says, AI tutors are better than Stanford tutors. Too much of the population doesn't read that. And I already have seven of them.
+
+But it definitely helps in that scale. It's one of the benefits of what Alvin's going to have versus what I did in school, which is nobody else can afford, because they're not going to be able to do more. The scale I'm going to have, to justify that, in four or five years, the number of high school kids in five years, I'm like, okay, 150 people.
+
+From across the country. And so I need to start building out a relationship with that.
+
+[Speaker 5]
+Of the school?
+
+[Speaker 1]
+It would depend if I was a D1 athlete. The other ones are anti-athlete. So pick that.
+
+And then brand value, I would pick Harvard. I guess it depends. I've never been to the Ivy League.
+
+When you kill a history, it's a long time. Yeah. So it's all I know Harvard's going through a tough time right now.
+
+And they have serious issues. I don't know who they are. I don't know how they're going to do it.
+
+He has a lot of fun. Everybody else is capitulating. Because the government has all the weapons.
+
+And Harvard's alumni has decided we want weapons. You don't have any weapons. You have no weapons.
+
+You have no weapons. Literally, they're just going to take pieces. Well, it's not even paid.
+
+The alumni has said don't worry. There's no funding in the short term. Because their donor base will mitigate it.
+
+The issue is when they kick all the kids out, you've just ruined international forever. Right? I mean, it's just, you know, right?
+
+I mean, if you took out everything that Harvard's negotiating, Trump's a deal guy. And Harvard's decided to draw a line. Because they think their board is like leaning over Harvard.
+
+I don't know if that works. I mean, can you cut a deal? I feel like the Columbia thing was rare.
+
+Columbia's not going to go in. They'll have to compromise. Harvard's playing like, holy shit, what just happened?
+
+Right? And Trump would be super excited. He'd be super excited to watch them crash and burn.
+
+And that's what I feel like. Very close to Harvard. And that's part of what happened.
+
+No, he's like, you guys got to fucking cut a deal. He's like, you guys are, this is exactly why I was trying to burn the president. You guys are not arrogant assholes who are completely clueless about your issues.
+
+Right? And America is happy to watch you burn down anything that's your issue. We sort of get right now, we have to compromise, even if we don't like it.
+
+The faculty and the board are like, we are going to go to the math because we're hot.
+
+[Speaker 3]
+I mean it feels uncomfortable.
+
+[Speaker 1]
+And that's the problem now. There's this great article you can read about how you know, in England, you know, all the monsters were the high schoolers. And I forget which king, right?
+
+He abolished them. And it literally went from these are the weird institutions to they're all awful. And they're like, how can you have a unit that's that close to being the monsters?
+
+They've lost the ranking by apparently. And they're losing the elite because of all the discrimination on people. It's about too many people.
+
+Is higher education Yeah, so we're working on higher education. 30% of the university. And so the ability to go in and buy distressed universities and go.
+
+The building and land. All the buildings and lands are inside. We'll be able to go in and then put our program in it and then print money.
+
+So we're doing Drew University. Right outside of New York. Parents want to send their kids, the same way, they want to send a university for four years.
+
+But they want them to learn. That's a waste. And you can build one where the kids would love it.
+
+So I totally believe. You absolutely can build a next gen university.

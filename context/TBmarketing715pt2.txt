@@ -1,0 +1,628 @@
+[Speaker 1]
+Totally. At the end, we should have examples of different schools that are doing money time back. Because you have a GT school, which is like a very academic focus.
+
+And you have the other ones.
+
+[Speaker 4]
+So it's like, can you illustrate that there, like, this opens up doors, but that's not the case. I mean, I would only argue that is what every ed tech company that's failed has done. It's not.
+
+It's just created a problem and not wrapped it in a program. Right? There's no incentive for these kids to time back without everything else.
+
+Yes. Do you think that should be, like, our main header? Well, I'm just saying, I mean, we did all this research and all of it said that, you know, it's just, it's a thing.
+
+Right? Yeah. It's not still, to a kid, it's still work.
+
+No matter how you wrap it, the kid still sees it as work. That's why we pay kids to do academics. Hey, we basically give them money to do academics.
+
+Wow. Yeah.
+
+[Speaker 1]
+That, I feel like that doesn't help people at all. I know.
+
+[Speaker 3]
+I know. Well, it's not, I'm waiting for, because I asked that exact question. That's not how we create it.
+
+It's just, like, when people don't get paid, they get paid in other ways. He was talking about how, like, giving kids time back is the biggest form of payment.
+
+[Speaker 1]
+Yeah. We could actually, actually, somewhat vague, but, like, inclusive, like, you know, identify your student's motivation, and then the system would use that to make sure that they're paying attention to the content they're looking at. And the content's going to be, like, so efficient that they're going to have time to do it.
+
+It's like, I don't think we have to get specific into, you know, we're going to pay them, or we're going to, like, we're going to have workshops, because each school can vary what they're doing. But we can just include their, like, motivations in that.
+
+[Speaker 3]
+That's one of the learning models. That's the learning model, yeah. That's the vision model, whatever motivations that you're talking about.
+
+So I don't necessarily see how that would help.
+
+[Speaker 4]
+Is he saying, like, we're not just defining that? I mean, clear and prime back is what it's all about, right? And so we're just saying that we're not defining how they utilize that time back.
+
+Yeah, that's what you're creating. Like, that's the freedom that you get if you use this. So we're painting the picture of this infinite, formless potentiality of time back.
+
+So, yeah.
+
+[Speaker 1]
+I kind of think, you know, you go through a story that explains what time back is, and at the bottom it's just, like, a gallery of, like, tons of different schools that are doing, like, tons of different things. Yes. Totally.
+
+And, like, that's where kind of this emotional story time comes in. It's like, wow, I can finally make education what it is. It's more like, what, what, what, whatever it's going to be.
+
+And then I think, like, just the fact that you've shown that it's more than, like, it's Yeah, I think that's an example of something that can't be. You also mentioned, like, integrating questions into the site. So you can integrate one section, and then as they scroll, it's just like, okay, we know you're a parent.
+
+You want to, like, learn more about homeschool. You want to learn more about, like, I don't know. But we should be giving, basically, you should give something to read first before, right?
+
+So it's like, you're a parent, let's explain a story about how time back is helping. Now are you a homeschooler? Do you want to find that school?
+
+You want to ask for a tutor. Right? And then we can give you another story.
+
+[Speaker 3]
+But my guess is, shouldn't we have the option to look at all three, like, what they don't know, right? Like, what most people don't know about parenting and what it looks like.
+
+[Speaker 1]
+That could be, like, a recap. So it could be, like, I'm a parent, and I get redirected to the parents page, and there's, like, a story or something like that with, like, stats of, like, some sort of number in a blurb. And then there's, like, three buttons below it.
+
+And it's, like... It's like a tutor and an ending story.
+
+[Speaker 4]
+Yeah, sort of. And it's, like, you can go back.
+
+[Speaker 2]
+Are you a parent? It's almost like the curiosity, right? Well, I'm going to this website.
+
+I'm curious. But I can go back. Like, think about it.
+
+If you were really interested about Time Dive... I'm thinking about this selfishly, but if I was interested in Time Dive, and I saw a simple website like this, and I just typed, I'm interested, and I jump right into, like, are you a parent? Are you a teacher?
+
+Are you a kid?
+
+[Speaker 1]
+I'm a parent, but I don't think I'm a parent.
+
+[Speaker 2]
+And then, boom, now you've rendered the whole website. You already have who they are. You know, you have their email.
+
+[Speaker 1]
+Yeah. So you'd keep it like this?
+
+[Speaker 2]
+Yeah, keep it like this. Minimize decisions. No, no, I would just keep it like this.
+
+I'm just thinking about this is what I was saying. I think it would be cool if we just kept this and then no information. But then they're like, oh, I'm kind of interested in what the hell this looks like.
+
+So I put in my email. I'm interested. And then, boom, it goes to are you a parent?
+
+Five panels, parent, kid, whatever. Yeah, so when you click I'm interested, then it gives you the options. Then it gives you the options, yeah.
+
+Because that way we're collecting their email and now we're associating their track, right? Yeah. We can do that.
+
+We can pair that in the database immediately, right, as soon as they give us their email, whatever panel we choose. And now we've given what Joe wants in a way that I think would be compelling for parents or educators, right? Like if I went to this website, yeah, I don't know.
+
+Sure, some people might be turned off by it. No, I agree, actually. You know what I mean?
+
+Like some people might be turned off by it, but then I think that like.
+
+[Speaker 1]
+And the fact that it's a podcast, he's already in that chat box.
+
+[Speaker 2]
+Yeah, and if enough people are like interested in it and start talking about time back, then like then I think word will get out that like, hey, actually there's more to this website than just the simple landing page. It's just that you have to give your email. I mean, giving an email is not like a big commitment in 2025, right?
+
+Maybe in like 2012 or 2013. But anyways, those are just my thoughts.
+
+[Speaker 1]
+No, it's not. Once we get telling the story of this thing that populates, like I think there's two approaches. One is go like directly, make it as emotionally customized to the parents.
+
+The other one is like understanding that people will drop off the site and like trying to get as much useful information as we can before they get off there to some of the launch campaigns to follow up. Like the first is going to, the hierarchy of things is just going to be, you know, the story. The second, the hierarchy is going to be what inspires, like what information is crucial for the marketing campaign and that kind of stuff.
+
+Okay. Sorry, I'm just thinking.
+
+[Speaker 2]
+I'm not ignoring you. I promise. Yeah, no worries.
+
+Thank you. Appreciate it. After someone chooses an ICP, right?
+
+Yeah. So, I mean, in my head, it's a story. But then at the end of this story or in certain breakpoints of this story as it's being displayed, there is actual references to the evidence that supports said element of the story, right?
+
+Whether that's at the end, I don't think it should be at the end. I think it should be kind of segmented in there, right? So, like wherever there's like an infographic, because obviously we're going to have a lot of infographics that need to be supporting like a citation, right?
+
+You know, learning science. So, that's how we're going to sneak in the actual. And, you know, the majority in this ICP is probably parents.
+
+The majority of them are just going to flat out ignore it, which is fine. Maybe that's not the demographic or ICP that cares about the hard sciences.
+
+[Speaker 3]
+Are we able to have like small prompted questions throughout the whole website?
+
+[Speaker 2]
+Say again?
+
+[Speaker 3]
+Are we able to have like small prompted questions throughout the whole website? So, like a 10 questionnaire instead of having it in one place.
+
+[Speaker 4]
+Yeah. Spread out through.
+
+[Speaker 3]
+So, it's like as they read through the story, it's like say you got to a stat about kids in different grades, whatever, and how time back works. You could have a question of what grade would your kid be going into. And then like you're collecting data at the same time, but it doesn't feel overwhelming because you're doing it like throughout the process.
+
+[Speaker 2]
+As part of the story. I think that's really interesting and I like that. I would also defer to like have to be really careful about the amount of questions.
+
+Yeah.
+
+[Speaker 1]
+But that also does the like, you want it interactive.
+
+[Speaker 3]
+Yeah. And I feel like that makes it feel a little more personal.
+
+[Speaker 1]
+Yeah.
+
+[Speaker 3]
+Because it feels like, oh, they're actually like talking about it.
+
+[Speaker 1]
+I like it. But you were saying, Breeze, that he like explicitly wants no chatbots on the site, right? So, you have to format it in a way that it doesn't feel like it.
+
+[Speaker 5]
+Like a chatbot, yeah.
+
+[Speaker 4]
+I'd more or less like click it off. Yeah. I'm telling you.
+
+You're like spamming the kids.
+
+[Speaker 2]
+But yeah, we could segment without like having a chatbot for sure. Like, how old's your kid? What grade is your kid in?
+
+Zero to six. Yeah. You know what I mean?
+
+Zero, or not zero, six, but one through six, six to eight. Eight through 12.
+
+[Speaker 3]
+And then we need to be giving them something right after they give us that information, like a stat for that.
+
+[Speaker 2]
+For that group. Yeah.
+
+[Speaker 3]
+Because then it feels like they didn't give us information for nothing. Yeah. We have to give them something back.
+
+Right.
+
+[Speaker 2]
+I'm just trying to think in terms of like fatigue, right? Like if I didn't know what time back was, I gave you my email. I'm a parent.
+
+I'm scrolling down, right? But there's like questions that are being asked. Are those questions blocking me?
+
+Like if I don't answer these questions, is it going to block me from receiving, being able to read the rest of the content, right? That's what I'm trying to figure out, right?
+
+[Speaker 3]
+Yeah, I agree. I feel like having like a minimum amount. Maybe he ends up getting the idea.
+
+I don't know. But I feel like maybe having two or three sprinkled in there.
+
+[Speaker 2]
+Oh, yeah. Two or three. Okay.
+
+That's good.
+
+[Speaker 3]
+Not like crazy.
+
+[Speaker 2]
+Yeah. But are the two or three questions blocking the reader from getting as much information about it as possible, right?
+
+[Speaker 3]
+No, because we're still giving them information. Now we're just giving them more information.
+
+[Speaker 2]
+Yeah, yeah, yeah. But if I don't answer the question, what happens then? Does that make sense?
+
+Right? Like that's what I want to try to figure out. Because look, we already got their email.
+
+[Speaker 3]
+It could be something like what kid is your grade in or what school district are they currently in, and then they give us that and we are able to provide a side-by-side comparison with the math testing. So it's like it's just more specific. It's not like you're not getting information, but we're just making it extremely specific to you.
+
+[Speaker 2]
+Well, I think the possible work around this is optionality, that if they don't want to answer these questions, then they get just a site of generic information. But hey, if you answer a couple of questions here, you're going to get more relevant hyper-personalized information, which I think honestly, if we present it like that, we probably will get people, and this is just my guess, is that parents want more relevant information to their specific situation.
+
+[Speaker 5]
+Yeah.
+
+[Speaker 2]
+So if you frame it in a way that like, hey, if you don't answer it, yeah, exactly. If you don't answer these questions, here's the results. But if you want to know specifically...
+
+[Speaker 1]
+I was going to say, so what I was thinking is like, so for the math test results, right, you can have like a thing where it's, here's not, you know, Alpha school or Time X math results, here's the average U.S. math results, and then you can have under that level, enter your current school district to see how you compare. So they're still getting information, it's just not specific, but they're still getting the same information effectively. Right?
+
+The information there is that schools that use Time Back have vastly better test results than anybody else. Right.
+
+[Speaker 3]
+But now that's limited.
+
+[Speaker 1]
+Right. Now it's more specific. Like, even if you don't put your fields in there, you still get the...
+
+Right. Yeah. That's a great question.
+
+Yeah. Yeah. Yeah.
+
+Yeah. Yeah. Yeah.
+
+Yeah. Yeah. Yeah.
+
+Yeah. Yeah. Yeah.
+
+Yeah. Yeah. Yeah.
+
+Yeah. Yeah. Yeah.
+
+Yeah. I would probably... Two things that we can do, like the first is what's the latest...
+
+Yeah. Yeah. What's the latest over here to get?
+
+This is Time Back. And the other thing we can do is look at, like, a site about time versus the number of each of their stories that we might want. Mm-hmm.
+
+And then, like, once we have those two, we just have to merge, like see how much we can take from their stories that we're trying to get, and then can I build this final product? I'm like, this doesn't exist in the world. So, yeah, you're trying to figure out a solution.
+
+You can tap into their data. What do you think? You're a parent.
+
+[Speaker 4]
+You kind of decide. What do you want to know? I feel like in terms of design, whatever we do is irrelevant.
+
+[Speaker 1]
+Whatever we do is irrelevant.
+
+[Speaker 4]
+It's going to be irrelevant. Because he already knows what he wants. And it's going to be something similar to that.
+
+But I do think your point about the stories by the ICP is important. What is the key story by ICP that should be reinforced with imagery? I feel like breaking up into teams around defining what those stories are would be better served than coming up with five different assignments.
+
+[Speaker 2]
+I think I like that. Breaking up into teams for each ICP to figure out what that story looks like.
+
+[Speaker 1]
+I'm all for that. It's just like they take the math, they take the reading, that kind of thing.
+
+[Speaker 3]
+I think what we have right now is what we could potentially give to parents and maybe teachers.
+
+[Speaker 1]
+What does that look like for a philanthropist?
+
+[Speaker 2]
+That's the other ICP.
+
+[Speaker 1]
+Because what he was saying there is he's basically trying to get people to donate money to support student scholarships or support people opening their time back to school. That is probably like, oh, you're interested in education, look at how great. Again, similar day to day.
+
+Look at how great our grades are and you can help us give this to so many more kids.
+
+[Speaker 3]
+But there's also pricing. Governments and school districts, that would be an important thing for them, right?
+
+[Speaker 2]
+Pricing? Not at this point, I don't think. For governments?
+
+I don't know. I could be wrong. My assumption is that this is not a website for pricing.
+
+We do not ever render pricing on this website. You've got to come talk to us and we've got to see if you're a good fit. If we're talking about the government level, right?
+
+That's what I would think about this. As for the other tracks, I still don't see this website ever putting pricing on it.
+
+[Speaker 1]
+We give information on here's how the technology works, here's the results that we have, but then you would say okay, I'm interested in opening a time back school, and they call you and high demand, easy, turnkey solution.
+
+[Speaker 2]
+I think of this website as giving everyone enough information, regardless of your ICP, for them to be like I want to initiate this conversation or I want to talk more with whoever's in the audience. If we're talking about an entrepreneur, the way that I would see this is basically that we would give them the process, what does it look like, how do we support you, and then basically at the end have some sort of appointment making process where we have to interview the entrepreneur to see if it's even a good fit. We're never going to give out our pricing to that entrepreneur.
+
+For governments, I imagine it's the same way. I guess that's what I'm trying to get at. I feel like if you put pricing on a website you're going to get boxed into that pricing.
+
+Someone's going to crawl, your competitors are going to crawl through your website, next thing you know you're going to see all these websites with like office school is $20,000 a year and look at all these other edtech providers that are so much cheaper. That's why I don't see this as a website for pricing. I could be wrong.
+
+[Speaker 1]
+From what I understood from when you were talking it's not a sale type of thing.
+
+[Speaker 3]
+I guess it's more just to educate people and they feel that they know enough to want to be actually interested in it.
+
+[Speaker 2]
+Remember this is a B2B or B2B2C website. Essentially the actual people who are going to be implementing Timeback are outside of Alpha Anywhere. Alpha Anywhere is the only one that's B2C.
+
+I'm sure Alpha Anywhere has their own website. I'm assuming. Let's think about what we should try to achieve for the rest of our time here together.
+
+I don't know because I've got to be somewhere else in a couple of hours and I'm sure you guys all have your stuff to do so what I would like to think about is what this looks like for a parent.
+
+[Speaker 1]
+Are kids really in ICP? I don't think kids are in ICP.
+
+[Speaker 2]
+If I'm 14 years old the last time I'm doing this.
+
+[Speaker 1]
+So parents. I think the first thing that you should see if you're a parent is do you want your child to work? I mean that's why it goes through the learning cycle.
+
+[Speaker 3]
+How we do it.
+
+[Speaker 1]
+But nonetheless I'm saying something along the lines of we have some data For Brownsville?
+
+[Speaker 2]
+That makes sense. Does he have anything better?
+
+[Speaker 3]
+Is that the one?
+
+[Speaker 2]
+So what is your You don't know what order I think what we should figure out right now is what proof are we displaying for parents? What learning science are we displaying for parents? As long as we establish what the proof, the learning science then we can kind of how we organize it individually What do you mean by options?
+
+Oh.
+
+[Speaker 3]
+And then what makes us different
+
+[Speaker 1]
+And then you're able to actually explore
+
+[Speaker 3]
+specifics of what you want to be learning Because ideally hopefully in the proof itself we've talked about homeschool, afterschool, whatever it is Because we'll have stats from that and then maybe once they click on that they're able to see
+
+[Speaker 1]
+I feel like this shouldn't be more than a blur It should be like a stat with an explanation I don't want to give them too much The proof comes in different forms
+
+[Speaker 3]
+Proof for who?
+
+[Speaker 1]
+For a parent Hello Good how are you? If it's a button that I click then it takes me off to a new page which means that I have to come back to the new page to get the rest of the information So then what we risk is, I click on the button learning science I go to learning science and I don't come back and look at why are guys different That's what I'm saying There should be a button that says explore more, but we need to give them learning science That's what I'm saying, for the proof This is one stat, whatever it is, maybe two that we think is the biggest one So this is a stat with an explanation And then explore more This should give you everything you need to know Learning science
+
+[Speaker 2]
+It's up for us to determine the order right now Each of us can experiment on our own what this order looks like, but first we should establish what the elements are before we start talking about the order Of course this is implementation
+
+[Speaker 1]
+REI is different
+
+[Speaker 3]
+This would just be software And I guess this is where the interactive part comes in, where people are able to compare
+
+[Speaker 1]
+Or that could also be a proof Perhaps REI is too soon
+
+[Speaker 3]
+But no, when you get on a website You know what time by date You want to see some stat When I say proof, it's a big number So you're like, wow, what does that mean?
+
+[Speaker 2]
+And then you start to read exactly So maybe it's proof, then REI, and then learning science at the bottom I mean, obviously each of us could do a different thing Each ICP is going to want a different order So then I would assume learning science would just be on the bottom Isn't it wrong to say learning science should be on a completely different page?
+
+[Speaker 1]
+It should link to the bullet we dug But there needs to be some explanation of it on the meta
+
+[Speaker 3]
+Okay, so have a very general overview, and then link to all the people
+
+[Speaker 1]
+Yeah, exactly, like a repository In 1971, 32 Sigma came out, and this is how that works This is the basis of how tech works It's like a two to three sentence thing With the video of Louie Kennedy explaining what the thing is
+
+[Speaker 3]
+Talking Kennedy What? Say that again?
+
+[Speaker 2]
+Oh, like an avatar of her talking?
+
+[Speaker 3]
+I mean, it's possible Does it feel like websitey?
+
+[Speaker 1]
+The tradeoff is probably load times But I think that's secondary We have to build this first So ARIA is different This would be I feel like this would be My thing is, again, are you asking them too soon to start uploading stuff, and to think about Oh, what are my math results? That takes them away from our website Takes them to separate things You're leaving the website We don't know what this problem is going to be like I think in the ideal world, this should be embedded in there It's just like a screen that loads And then you ask for zip code? Yeah, you just put in the school that you want Do they have general math results for zip code?
+
+Well, no, it's per school So this is the screen Wait, what?
+
+[Speaker 2]
+Now we're going to make this
+
+[Speaker 1]
+public country Most schools don't reveal it Here's alpha's math And then here's the average math And then, in case you want, you can go in here I put in my school's name, and it would come up with your school's map, but, oh my god, wait, we don't have it because your school doesn't publish it You're never leaving the website, it's just auto-recorded And, maybe I don't care about this I just scroll down
+
+[Speaker 3]
+I personally feel like when I visit a website I like everything that I have to do towards the end of it So we could have a version of it where this is at the end Because then it feels like I have enough information to actually invest my time into reading the stats on this So, we could consider in both locations
+
+[Speaker 1]
+I agree that I want to avoid asking stuff publicly Where else would this be?
+
+[Speaker 3]
+Because I feel like people should get the whole picture and then be invested in that Because this is like, you're slightly invested, you're learning something and then you figure something else out, and then you learn more and you figure something else out Whereas you just figure everything out about a time back
+
+[Speaker 1]
+I don't know Because then that feels like a little bit I don't know Do parents even know what math is? I've never taken math
+
+[Speaker 2]
+That's my thing
+
+[Speaker 1]
+He's so emphasis on how much better math is Most kids don't take math SAT might be a better idea
+
+[Speaker 5]
+But SAT doesn't matter
+
+[Speaker 1]
+He specifically said math
+
+[Speaker 3]
+Don't think of math as like, do you know visual representation of how much better time back is compared to yoga
+
+[Speaker 1]
+What I'm saying is, in comparison to schools that don't use math Yeah, it may mean nothing to them This would mean nothing to me because I've never been in a school that complies
+
+[Speaker 2]
+I actually think this order is not a bad start for right now. What other elements are essential to this that you can think of?
+
+[Speaker 3]
+I mean, but then age would be so into detail And have like
+
+[Speaker 1]
+I don't know, anything that we can do to help Another one is outcomes Some of this is benefits, but we want to talk about outcomes School life
+
+[Speaker 5]
+But we're not talking about school
+
+[Speaker 1]
+Yeah, it's only in English for parents We can only think about So outcomes would be more like, my kid likes going to school But even going to school You can only think about the academic
+
+[Speaker 3]
+We're not sending them to a location We're not giving them school activities We can't talk about the school food because we're not selling it All you can say is we've given you time back And then you could talk about a few use cases Here's what kids have done with their time back Because I feel like the more videos and content you have in there the better So people want to see actual testimonials
+
+[Speaker 2]
+I'm glad that you finally brought that up People want to hear testimonials All this stuff, if we're too heavy on the stats We're going to glaze people over People's eyes are going to glaze over I swear
+
+[Speaker 1]
+Do we want to do testimonials and proof right after each other?
+
+[Speaker 3]
+I think they're kind of together Because our proof would be a stat I'm not saying we have them all together
+
+[Speaker 1]
+I almost wonder if testimonials would give proof
+
+[Speaker 3]
+I think our testimonials would back up the proof
+
+[Speaker 1]
+Why don't we just get a list of all the elements and then we can figure out sorting afterwards It might help to know what components we have
+
+[Speaker 3]
+Any time anyone says a fact Maybe you don't believe it's true Because a lot of our stats are really unbelievable Then you want to actually hear that Someone has actually gone through this And they're not just stating a fact Which is where testimonials come in And then you tell them how we achieved this
+
+[Speaker 1]
+My thought process has been We have the proof, and let me explain to you why we did that And those who still don't believe us, here's the testimonials to back that up I think if we're doing RAI plus learning science plus math all in a row
+
+[Speaker 3]
+Testimonials would be really useful
+
+[Speaker 1]
+It's in the middle
+
+[Speaker 3]
+Then RAI has to be really Really brief. This is literally just like two boxes But then how does it go from RAI to testimonials again?
+
+We could have testimonials at each stage also
+
+[Speaker 2]
+That's kind of what I was thinking Testimonials would be layered in there as someone's reading To keep them hooked throughout the page And of course we can test stuff with hot maps See what people's eyes are on
+
+[Speaker 3]
+I mean even with map results It could be something as interesting as you have an interactive map With the US on the website People are able to click on where they're from And it pulls up something for that general area
+
+[Speaker 1]
+Map results Do we want to do explore schools? Right, because one of the things you said for parents Is finding a time at school for them So it's like explore current schools That seems to me to be a bottom element That's what I'm saying, this should be the last thing Oh I'm super interested, I mean like get alpha in GT and sports academy And you can explore more Are there any other elements here?
+
+I think curriculum fits in for parents We don't know what they do Yeah, time back provides
+
+[Speaker 2]
+Curriculum is too broad Then we can go down a rabbit hole Trying to define curriculum again for everyone else Because I don't know
+
+[Speaker 3]
+I was going to say we talk about personalizing Because we can't just leave it as explore current schools
+
+[Speaker 2]
+Let's not think about that, let's say Let's worry about what data we're collecting on the forums for later Because at the end of the day We could make assumptions about what that looks like And Joe will ultimately be the last person to tell us So until we hear back from him about it, there's no point in speculating So let's just focus on this This and figuring out what unique combination of elements here
+
+[Speaker 3]
+So do you see this Being like the first page? People not being able to do anything more than just enter email
+
+[Speaker 2]
+As soon as they click I'm interested, as soon as they click I'm interested This page goes down, we go below the full And then it's like are you a parent, are you an institution, are you a philanthropy So here, the only thing is here My thought process is that If they're truly doing a whole media campaign and a huge launch There's going to be a lot of curious people about this So I'm going to put in my email here as soon as I click I'm interested This page goes up, we go below the full now And that's very small It's like a banner with four options Almost like this banner one, I'm an institution parent And then as soon as they click that
+
+[Speaker 3]
+Then we take them to the new thing And is it a completely new page?
+
+[Speaker 2]
+No, I imagine what will happen is that it will probably just Click screen up It automatically moves the screen for you It feels like they're being part of this journey Does that make sense?
+
+[Speaker 3]
+Each of those things is also scrolling
+
+[Speaker 2]
+And of course if people want to switch I don't know what that process looks like
+
+[Speaker 1]
+What if I'm a parent and I'm a principal I want both sets of information
+
+[Speaker 2]
+That's kind of like your edge case We obviously need to think about how we're going to Give them a path out This is a parent, but I'm also a principal So there has to be some sort of outlet for them to Smoothly render a new experience We can figure that out later Should we still have the kind of Right?
+
+Does it feel too soon to be talking about Proof and stats That's actually a great point The language can be changed A lot of this stuff in marketing A lot of it is framing We could have it say open to the public Because then it implies that this is going to be useful Our stats are from our own private results Some sort of language or framing that signals Do we have an about page?
+
+[Speaker 1]
+I don't think we have pages
+
+[Speaker 3]
+What I mean is do we have somewhere Where we talk about what time back is
+
+[Speaker 1]
+Maybe that's about time back If we go here now We move this up Wait, say that again When I click I'm interested It redirects us here
+
+[Speaker 2]
+Yeah, I think that would be great
+
+[Speaker 1]
+I love that
+
+[Speaker 2]
+That way we kill two birds with one stone Let's say I go to this website I see this about time back I click that I'm a parent I want to go back to being an educator They can click the about button That would take them back to this page There's a new happy path for them You have to give them an option to go
+
+[Speaker 3]
+But then you're clicking on get interested And then what?
+
+[Speaker 2]
+Oh, so the get Can you go back? The home and the about I'm assuming would not be rendered If you're on that page where it's like I'm interested Does that make sense? That way there's no optionality Someone cannot skip past the enter your email However, the bigger question is what happens when you come back to that website You have to give your email again That's a good point That's a really good point
+
+[Speaker 1]
+We can use first party cookies So it remembers It'll look for at least a week or so So we can do it that way That way they have continuity
+
+[Speaker 3]
+But what if I don't even have a kid I just want to look at the website Do I still have to give my email?
+
+A lot of people sometimes just look at websites
+
+[Speaker 1]
+I mean I get it
+
+[Speaker 3]
+And I get it, the traffic right now is coming from Everyone that is actively interested
+
+[Speaker 1]
+I think we'll have to weigh it We're going to lose people if we put the email up front as a gate We're also going to not get emails if we allow it to be Publicly I default to screw it
+
+[Speaker 2]
+We ask for emails early You bring up a good point about when they revisit the website Constantly being pinged for my email
+
+[Speaker 1]
+Because we have that thing that comes up now If you put in an email that already exists You're already signed up You still have to type it
+
+[Speaker 3]
+Is it possible
+
+[Speaker 1]
+Still nice to meet you Tim
+
+[Speaker 2]
+Just let me know if you need anything That's a tough one I don't know what the answer is
+
+[Speaker 3]
+You could also have a button that says something like visited before And then they click on that
+
+[Speaker 2]
+You're basically giving them an outlet to bypass the email collection
+
+[Speaker 3]
+No, but that would only work if they already They would have to re-enter it
+
+[Speaker 1]
+And then I'll take you to all the Reads Reese, do you know If there's any way We can capture an IP address In which case they can come back to it If I'm logging in from a new
+
+[Speaker 3]
+We're trying to figure it out
+
+[Speaker 2]
+I'm going to step out for a little bit
