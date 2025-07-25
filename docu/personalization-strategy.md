@@ -6,6 +6,31 @@ Our strategy is divided into three distinct paths, each building on the last.
 
 ---
 
+### **Core Personalization Logic: The Case Study Archetype**
+
+**This is the foundational concept that powers our MVP and all subsequent personalization efforts.**
+
+It is critical to distinguish between our two primary assets:
+
+1.  **Alpha School (Internal Data):** This is our "lab" where we apply our learning methods to real students. The data from `rawdata/` is the ground truth from Alpha School. It serves as our internal, evidence-based proof that the TimeBack method works.
+
+2.  **Timeback.com (Public Website):** This is our marketing platform for prospective customers (e.g., parents of children in traditional schools). These users are **not** in our database.
+
+**The Strategy:**
+
+We use the real, granular data of a **single, anonymized Alpha School student** as a **powerful and representative case study** to persuade the prospective parent visiting our website.
+
+The user flow is as follows:
+
+1.  **Context Gathering:** A new parent arrives and completes the 2-question quiz, providing their context (e.g., "I'm a parent concerned about my 9th-grade child's grades").
+2.  **Archetype Selection:** The backend receives this context and queries our internal Alpha School data to find a **representative student archetype**. For example, it will look for an anonymized 9th-grade student from our database who has shown significant grade improvement.
+3.  **Data-Driven Narrative:** The backend then takes the **real performance data** from this "case study student" and uses our LLM (Groq) to weave it into the persuasive narrative defined in `dashboard-narrative-spec.md`.
+4.  **Personalized Result:** The visiting parent sees a dashboard that feels uniquely relevant to their situation because it's backed by a real, data-driven story. Instead of a vague marketing claim, they see a concrete example: "Here is the actual performance jump we achieved with a 9th grader who was in a similar situation to your child."
+
+This "single student as archetype" model is how we bridge the gap between our internal proof points and our external marketing, making our claims tangible and trustworthy.
+
+---
+
 ### **Path 1: Grade-Level Deep Dive (Immediate Priority)**
 
 This path focuses on making our existing personalization much more nuanced by tailoring content to the user's specific educational stage.

@@ -21,8 +21,56 @@
 | `personalize_success` | 200 `/personalize` | `latency_ms`, `provider`, `block_count`, `ttl` |
 | `personalize_fail` | 503 or error | `error_code`, `provider` |
 | `cta_click` | Any CTA block clicked | `cta_text`, `cta_url`, `vid` |
+| `video_play` | HTML5 video starts playing | `video_id`, `position_s` (0 for first play) |
+| `video_pause` | Visitor pauses video | `video_id`, `position_s` |
+| `video_complete` | Playback reaches 95 % | `video_id`, `duration_s` |
+| `video_exit_viewport` | Video leaves viewport before completion | `video_id`, `played_s`, `position_pct` |
+| `scroll_depth` | First time visitor scrolls past 25/50/75/90 % of page height | `percent` (25\|50\|75\|90) |
 | `static_fallback_render` | `/static/:templateId` displayed | `template_id`, `reason` |
 | `hydration_ms` | React hydration callback | `value` (ms) |
+
+### Implementation Hints – Front-End Event Hooks (MVP)
+
+```ts
+// Scroll depth (25/50/75/90 %) – add once in a top-level React effect
+useEffect(() => {
+  const fired: Record<number, boolean> = {};
+  const marks = [25, 50, 75, 90];
+  const handler = () => {
+    const pct = ((window.scrollY + window.innerHeight) / document.body.scrollHeight) * 100;
+    marks.forEach(m => {
+      if (!fired[m] && pct >= m) {
+        fired[m] = true;
+        posthog.capture('scroll_depth', { percent: m });
+      }
+    });
+  };
+  window.addEventListener('scroll', handler, { passive: true });
+  return () => window.removeEventListener('scroll', handler);
+}, []);
+
+// Video interaction (play / pause / complete / exit viewport)
+function trackVideo(videoEl: HTMLVideoElement, videoId: string) {
+  function send(event: string, extra = {}) {
+    posthog.capture(event, { video_id: videoId, ...extra });
+  }
+  videoEl.addEventListener('play', () => send('video_play', { position_s: 0 }));
+  videoEl.addEventListener('pause', () => send('video_pause', { position_s: videoEl.currentTime }));
+  videoEl.addEventListener('ended', () => send('video_complete', { duration_s: videoEl.duration }));
+
+  const obs = new IntersectionObserver(([entry]) => {
+    if (!entry.isIntersecting && videoEl.currentTime / videoEl.duration < 0.95) {
+      send('video_exit_viewport', {
+        played_s: Math.round(videoEl.currentTime),
+        position_pct: Math.round((videoEl.currentTime / videoEl.duration) * 100)
+      });
+    }
+  }, { threshold: 0 });
+  obs.observe(videoEl);
+}
+```
+
+---
 
 Notes
 • `email_hash` is SHA-256 of lower-cased email to avoid sending raw PII.  

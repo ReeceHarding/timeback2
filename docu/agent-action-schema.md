@@ -77,3 +77,29 @@ Transition rules:
 
 ---
 *Prepared by AI assistant – feedback welcome via PR.* 
+
+## 6. Payload Legend (MVP)
+
+| action_type | JSON Schema file | Required Fields | Example Snippet |
+|-------------|-----------------|-----------------|-----------------|
+| `show_block` | `/schemas/show_block.json` | `block_id` (string) · `ttl` (int s) | `{ "block_id":"before_after_chart", "ttl":3600 }` |
+| `schedule_email` | `/schemas/schedule_email.json` | `template_id` (string) · `send_at` (ISO ts) | `{ "template_id":"demo_invite_parent", "send_at":"2025-07-22T12:00:00Z" }` |
+| `analytic_ping` | `/schemas/analytic_ping.json` | `label` (string) | `{ "label":"variant_B_winner" }` |
+
+> Schemas live under `/backend/schemas/` and are validated at insert/update time.
+
+---
+
+## 7. Post-MVP Enhancements (Recorded for Road-Map)
+
+| Feature | Rationale | Proposed Approach | Priority |
+|---------|-----------|-------------------|----------|
+| `priority`, `attempts`, `max_attempts` columns | Needed when multiple workers or SLAs require ordering/retries (e.g., ESP downtime). | Add nullable smallint columns with defaults `priority=0`, `max_attempts=3`. Increment `attempts` per retry. | P1 (after successful SSE launch) |
+| `steps[]` or `task_step` table | Model multi-email drips or multi-block reveal sequences. | Keep current flat tasks; later add child table `task_step (task_id, step_idx, status, due_at)`. | P2 |
+| Immutable `task_version` history | Full audit trail and rollback of marketing copy changes. | Mirror Memory Graph pattern: `task_version` table + pointer column on `tasks`. | P3 |
+| Additional `action_type`s | Future interactive elements (e.g., `show_modal`, `push_notification`). | Extend enum and add matching JSON Schema. | P1-P2 as features demand |
+| Extended security metadata | Trace content safety decisions (moderation flags). | Add `moderation_result` JSONB in `payload` or separate column. | P2 |
+
+These items are **NOT** in the MVP migration but are documented to avoid scope amnesia.
+
+--- 

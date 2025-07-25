@@ -2,7 +2,29 @@
 
 _Scope: this contract covers the **public marketing site (timeback.com)**. Internal product dashboards or future SaaS portals are out-of-scope for this version._
 
-This specification defines the HTTP endpoints, payload shapes, and latency targets that connect the front-end (React SPA) with the personalization engine.
+This specification defines the HTTP endpoints, payload shapes, and latency targets that connect the front-end 
+(React SPA) with the personalization engine.
+
+---
+## Core Data Concepts
+
+To prevent ambiguity, it is critical to understand the separation of two key entities in the TimeBack ecosystem: **Users** and **Students**.
+
+### 1. Users (Website Visitors)
+- **Definition:** A **User** is an individual who visits the TimeBack website and provides their email address. They are the audience for our personalized content.
+- **Identification:** The primary key for a User is their `email` address, which must be unique.
+- **Represents:** A `parent`, `school leader`, `entrepreneur`, or any other ICP we target. The User is the person consuming the information.
+- **Database Table:** `users`
+
+### 2. Students
+- **Definition:** A **Student** is an individual whose educational data is part of the raw datasets we import (e.g., from CSV files). They are the *subject* of the data, not the consumer of the website.
+- **Identification:** The primary key for a Student is their `StudentID` from the source data files.
+- **Represents:** A learner whose progress, assessments, and school information we process to generate insights *for* the Users.
+- **Database Table:** `students`
+
+**Crucial Distinction:** The `users` table and the `students` table are completely separate and must not be conflated. A "parent" is a User; their child is a "Student".
+
+---
 
 > All endpoints are JSON over HTTPS. Responses include `Content-Type: application/json; charset=utf-8`.
 
@@ -162,3 +184,35 @@ First byte ≤100 ms P95; keep-alive ensures CF doesn’t close idle conns.
 4. Do we expose `ttl` in response to optimise CDN caching?
 
 *Last updated*: 2025-07-20 
+
+### Implementation Hint – React hook for SSE connection
+```ts
+import { useEffect, useRef, useState } from 'react';
+
+export function useAgentLoop(jwt: string) {
+  const [status, setStatus] = useState<'connecting'|'open'|'error'>('connecting');
+  const lastId = useRef<string>('');
+  const retryMs = useRef(1000);
+
+  useEffect(() => {
+    let es: EventSource | undefined;
+    function connect() {
+      const url = `/agent/loop${lastId.current ? `?lastEventId=${lastId.current}` : ''}`;
+      es = new EventSource(url, { withCredentials:false });
+      es.onopen = () => { setStatus('open'); retryMs.current = 1000; };
+      es.onerror = () => { setStatus('error'); es?.close(); setTimeout(connect, retryMs.current); retryMs.current = Math.min(retryMs.current+1000, 30000); };
+      ['task_created','task_updated','metric_rollup'].forEach(evt => {
+        es!.addEventListener(evt, e => {
+          lastId.current = (e as MessageEvent).lastEventId;
+          // handleMessage(JSON.parse((e as MessageEvent).data));
+        });
+      });
+    }
+    connect();
+    return () => es?.close();
+  }, [jwt]);
+
+  return { status };
+}
+```
+--- 

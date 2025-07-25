@@ -102,4 +102,31 @@ Similar pattern keyed by `student_id|subject|term`.
 
 ---
 
+## Storing External & Competitive Data
+
+**Important Architectural Note:** The `entity_version` model described in this specification is designed exclusively for storing **internal, student-level source data**.
+
+External or competitive data (e.g., NWEA national norms, state-level proficiency averages) must **not** be stored in the `entity_version` table. This data is typically aggregated and has a different structure.
+
+To ensure data integrity and simplify analysis, competitive data should be stored in a separate, dedicated table. A recommended schema for this is:
+
+```sql
+CREATE TABLE IF NOT EXISTS external_benchmarks (
+    id SERIAL PRIMARY KEY,
+    source VARCHAR(255) NOT NULL, -- e.g., 'NWEA National Norms', 'California DOE'
+    year INT NOT NULL, -- The academic year of the data
+    geography_level VARCHAR(50) NOT NULL, -- e.g., 'National', 'State', 'District'
+    geography_name VARCHAR(255), -- e.g., 'California', 'Springfield School District'
+    grade VARCHAR(50) NOT NULL,
+    subject VARCHAR(100) NOT NULL,
+    metric_name VARCHAR(100) NOT NULL, -- e.g., 'MAP Growth Mean RIT Score', 'Proficiency Rate'
+    metric_value FLOAT NOT NULL,
+    imported_at TIMESTAMPTZ DEFAULT NOW()
+);
+```
+
+This approach keeps our internal "ground truth" cleanly separated from external benchmarks, which is critical for producing clear and trustworthy comparative insights.
+
+---
+
 _This spec supersedes any previous versioning notes in `analytics-spec.md`.  Implementation tickets are tracked under P0 in `ax-priority-plan.md`._ 
