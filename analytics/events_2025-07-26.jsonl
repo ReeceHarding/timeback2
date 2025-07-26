@@ -1,0 +1,1 @@
+{"id":"event_1","visitorId":"test_visitor_123","sessionId":"test_session_456","timestamp":"2025-07-26T04:45:00.000Z","eventType":"pageview","eventCategory":"navigation","eventAction":"page_view","pageUrl":"http://localhost:8082/","referrer":"","processedAt":"2025-07-26T04:45:01.875Z"}

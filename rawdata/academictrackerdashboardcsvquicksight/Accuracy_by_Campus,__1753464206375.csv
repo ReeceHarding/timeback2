@@ -1,0 +1,174 @@
+﻿"Campus","Level","Student","Subject","accuracy (AVG)"
+"Austin K-8","L1","Aleina Boyce","Reading",
+"Austin K-8","L1","Alyan Slizza","Math",0.9125000000000001
+"Austin K-8","L1","Anaya Lenington","Reading",0.9550000000000001
+"Austin K-8","L1","Brooke Tracy","Math",0.7
+"Austin K-8","L1","D'sean Harden II","Language",0.786
+"Austin K-8","L1","D'sean Harden II","Math",
+"Austin K-8","L1","D'sean Harden II","Science",
+"Austin K-8","L1","David Nolan","Math",
+"Austin K-8","L1","David Nolan","Reading",0.88
+"Austin K-8","L1","David Nolan","Science",0.77
+"Austin K-8","L1","George Troxell","Reading",0.9416666666666668
+"Austin K-8","L1","Ian Mentgen","Language",0.81
+"Austin K-8","L1","Ian Mentgen","Reading",0.83
+"Austin K-8","L1","Ian Mentgen","Science",0.81
+"Austin K-8","L1","Jaxon Siers","Language",
+"Austin K-8","L1","Jaxon Siers","Math",
+"Austin K-8","L1","Lukas Siers","Language",0.97
+"Austin K-8","L1","Lukas Siers","Science",
+"Austin K-8","L1","Maren Ackerson","Language",
+"Austin K-8","L1","Maren Ackerson","Math",
+"Austin K-8","L1","Maren Ackerson","Science",0.85
+"Austin K-8","L2","Armin Rouwet","Math",0.82
+"Austin K-8","L2","Armin Rouwet","Reading",
+"Austin K-8","L2","Blake Flores","Math",0.895
+"Austin K-8","L2","Blake Flores","Science",0.755
+"Austin K-8","L2","Bobbi Brown","Science",1
+"Austin K-8","L2","Connor Cason","Language",0.91
+"Austin K-8","L2","Connor Cason","Math",0.8175
+"Austin K-8","L2","Connor Cason","Science",0.82
+"Austin K-8","L2","Dario Poyatos Ramos","Math",
+"Austin K-8","L2","Dario Poyatos Ramos","Science",
+"Austin K-8","L2","Duke Ajouz","Math",
+"Austin K-8","L2","Elena Mentgen","Language",
+"Austin K-8","L2","Elena Mentgen","Math",0.7999999999999999
+"Austin K-8","L2","Elena Mentgen","Science",0.61
+"Austin K-8","L2","Elena Mentgen","Writing",0.5
+"Austin K-8","L2","Ellen Meegan","Math",0.83
+"Austin K-8","L2","Helio Ortiz","Language",0.79
+"Austin K-8","L2","Helio Ortiz","Math",0.8400000000000001
+"Austin K-8","L2","Kai Sticker","Math",
+"Austin K-8","L2","Kaiden Szpitalak","Language",0.9299999999999999
+"Austin K-8","L2","Kaiden Szpitalak","Math",0.755
+"Austin K-8","L2","Kaiden Szpitalak","Reading",0.8566666666666668
+"Austin K-8","L2","Kaiden Szpitalak","Science",0.6
+"Austin K-8","L2","Parker Carlson","Math",0.7899999999999999
+"Austin K-8","L2","Rocco Benetti","Language",0.9650000000000001
+"Austin K-8","L2","Rocco Benetti","Math",0.84
+"Austin K-8","L2","Rocco Benetti","Reading",0.7466666666666667
+"Austin K-8","L2","Rocco Benetti","Science",0.9099999999999999
+"Austin K-8","L2","Shepperd Pfiester","Language",0.96
+"Austin K-8","L2","Shepperd Pfiester","Math",0.76
+"Austin K-8","L2","Shepperd Pfiester","Reading",0.88
+"Austin K-8","L2","Shepperd Pfiester","Science",0.85
+"Austin K-8","L3","Aheli Shah","Language",1
+"Austin K-8","L3","Aheli Shah","Science",0.79875
+"Austin K-8","L3","Aileya Klinefelter","Reading",0.8166666666666668
+"Austin K-8","L3","Benny Valles","Math",
+"Austin K-8","L3","Ella McMurry","Math",
+"Austin K-8","L3","Eva Mentgen","Language",0.93
+"Austin K-8","L3","Eva Mentgen","Math",0.915
+"Austin K-8","L3","Eva Mentgen","Science",
+"Austin K-8","L3","Gus Castillo","Science",
+"Austin K-8","L3","Jackson Wiley","Math",
+"Austin K-8","L3","Jude Hock","Math",1
+"Austin K-8","L3","Kanhai Shah","Language",0.6066666666666666
+"Austin K-8","L3","Kanhai Shah","Math",0.8925000000000001
+"Austin K-8","L3","Kanhai Shah","Reading",
+"Austin K-8","L3","Roarke Radia","Math",0.9066666666666666
+"Austin K-8","L3","Roarke Radia","Science",0.8000000000000002
+"Austin K-8","L3","Ross Margraves","Language",0.635
+"Austin K-8","L3","Ross Margraves","Math",0.6875
+"Austin K-8","L3","Ross Margraves","Reading",0.76
+"Austin K-8","L3","Ross Margraves","Science",0.83
+"Austin K-8","L3","Zayen Szpitalak","Math",
+"Austin K-8","L3","Zayen Szpitalak","Science",0.745
+"Austin K-8","LL","Eva Lenington","Language",
+"Austin K-8","LL","Eva Lenington","Math",0.94
+"Austin K-8","LL","Eva Lenington","Reading",0.65
+"Brownsville K-8","Linc","C.J. Wright","Language",0.9099999999999999
+"Brownsville K-8","Linc","Ginny Gray","Reading",1
+"Single-user 2hr learning","L1","Aiden Nethercott","Language",0.6399999999999999
+"Single-user 2hr learning","L1","Aiden Nethercott","Math",0.6483333333333333
+"Single-user 2hr learning","L1","Aiden Nethercott","Reading",0.7083333333333334
+"Single-user 2hr learning","L1","Andromeda Brand","Language",0.7933333333333333
+"Single-user 2hr learning","L1","Andromeda Brand","Math",
+"Single-user 2hr learning","L1","Andromeda Brand","Science",1
+"Single-user 2hr learning","L1","Hendrix Smith","Language",0.89
+"Single-user 2hr learning","L1","Hendrix Smith","Math",0.66
+"Single-user 2hr learning","L1","Hendrix Smith","Reading",0.79
+"Single-user 2hr learning","L1","Hendrix Smith","Science",0.8600000000000001
+"Single-user 2hr learning","L1","Joseph Strangio","Language",0.92
+"Single-user 2hr learning","L1","Joseph Strangio","Math",1
+"Single-user 2hr learning","L1","Joseph Strangio","Reading",0.9
+"Single-user 2hr learning","L1","Legend Smith","Language",0.56
+"Single-user 2hr learning","L1","Legend Smith","Math",1
+"Single-user 2hr learning","L1","Scotty Noel","Math",0.66
+"Single-user 2hr learning","L1","Shepherd Rogers Mora","Language",0.96
+"Single-user 2hr learning","L1","Shepherd Rogers Mora","Math",0.8724999999999999
+"Single-user 2hr learning","L1","Shepherd Rogers Mora","Reading",0.88
+"Single-user 2hr learning","L1","Shepherd Rogers Mora","Science",0.905
+"Single-user 2hr learning","L1","Tomas Da Silva","Language",
+"Single-user 2hr learning","L1","Tomas Da Silva","Math",
+"Single-user 2hr learning","L1","Tomas Da Silva","Science",0.86
+"Single-user 2hr learning","L1","Warren Meyer","Language",0.9199999999999999
+"Single-user 2hr learning","L1","Warren Meyer","Math",0.925
+"Single-user 2hr learning","L1","Warren Meyer","Reading",0.915
+"Single-user 2hr learning","L1","Warren Meyer","Science",0.865
+"Single-user 2hr learning","L2","Beckett Stares","Language",
+"Single-user 2hr learning","L2","Beckett Stares","Math",0.8640000000000001
+"Single-user 2hr learning","L2","Beckett Stares","Reading",0.8
+"Single-user 2hr learning","L2","Beckett Stares","Science",0.8125
+"Single-user 2hr learning","L2","Cami Aguilar","Language",0.775
+"Single-user 2hr learning","L2","Cami Aguilar","Math",0.7575
+"Single-user 2hr learning","L2","Cami Aguilar","Reading",0.75
+"Single-user 2hr learning","L2","Cami Aguilar","Science",0.7140000000000001
+"Single-user 2hr learning","L2","Gia Arcieri Gaston","Language",0.768888888888889
+"Single-user 2hr learning","L2","Gia Arcieri Gaston","Math",0.8199999999999998
+"Single-user 2hr learning","L2","Gia Arcieri Gaston","Reading",0.73
+"Single-user 2hr learning","L2","Horty Puddlefoot","Language",1
+"Single-user 2hr learning","L2","Horty Puddlefoot","Math",0.87
+"Single-user 2hr learning","L2","Horty Puddlefoot","Reading",0.8725
+"Single-user 2hr learning","L2","Horty Puddlefoot","Science",1
+"Single-user 2hr learning","L2","Juliana Strangio","Language",1
+"Single-user 2hr learning","L2","Juliana Strangio","Math",0.9766666666666666
+"Single-user 2hr learning","L2","Juliana Strangio","Reading",1
+"Single-user 2hr learning","L2","Juliana Strangio","Science",0.9
+"Single-user 2hr learning","L2","Kane Shaw","Language",0.94
+"Single-user 2hr learning","L2","Kane Shaw","Math",0.78
+"Single-user 2hr learning","L2","Kane Shaw","Reading",0.885
+"Single-user 2hr learning","L2","Kane Shaw","Science",0.9
+"Single-user 2hr learning","L2","Nehvin Patel","Language",0.5633333333333334
+"Single-user 2hr learning","L2","Nehvin Patel","Math",0.975
+"Single-user 2hr learning","L2","Nehvin Patel","Reading",0.64
+"Single-user 2hr learning","L2","Nehvin Patel","Science",0.97
+"Single-user 2hr learning","L2","Scarlett Hamaoui","Language",0.8525
+"Single-user 2hr learning","L2","Scarlett Hamaoui","Math",0.93
+"Single-user 2hr learning","L2","Scarlett Hamaoui","Reading",0.78
+"Single-user 2hr learning","L2","Scarlett Hamaoui","Science",0.7275
+"Single-user 2hr learning","L2","Sonia Doyle","Language",0.8133333333333334
+"Single-user 2hr learning","L2","Sonia Doyle","Math",0.8375
+"Single-user 2hr learning","L2","Sonia Doyle","Reading",0.79
+"Single-user 2hr learning","L2","Sonia Doyle","Science",0.7966666666666667
+"Single-user 2hr learning","L2","Sully Stares","Language",0.94
+"Single-user 2hr learning","L2","Sully Stares","Math",0.925
+"Single-user 2hr learning","L2","Sully Stares","Science",0.8733333333333334
+"Single-user 2hr learning","L3","Ava Rosellini","Language",0.8099999999999999
+"Single-user 2hr learning","L3","Ava Rosellini","Math",0.924
+"Single-user 2hr learning","L3","Ava Rosellini","Reading",0.758
+"Single-user 2hr learning","L3","Ava Rosellini","Science",0.86
+"Single-user 2hr learning","L3","Mason Rosellini","Math",0.8299999999999998
+"Single-user 2hr learning","L3","Mason Rosellini","Science",0.72
+"Single-user 2hr learning","L3","Seaenah Starr Tolman","Language",0.9112499999999999
+"Single-user 2hr learning","L3","Seaenah Starr Tolman","Math",0.8366666666666666
+"Single-user 2hr learning","L3","Seaenah Starr Tolman","Reading",0.4714285714285714
+"Single-user 2hr learning","L3","Seaenah Starr Tolman","Science",0.8366666666666666
+"Single-user 2hr learning","L3","Tatiana Lynn Carrion","Math",
+"Single-user 2hr learning","L3","Tatiana Lynn Carrion","Reading",
+"Single-user 2hr learning","Linc","Brett Noel","Math",
+"Single-user 2hr learning","Linc","Brett Noel","Reading",1
+"Single-user 2hr learning","Linc","Callie Krause","Language",0.7966666666666665
+"Single-user 2hr learning","Linc","Callie Krause","Math",0.89
+"Single-user 2hr learning","Linc","Callie Krause","Reading",0.8960000000000001
+"Single-user 2hr learning","Linc","Callie Krause","Science",0.8987499999999999
+"Single-user 2hr learning","Linc","Kinzie Campbell","Language",0.88
+"Single-user 2hr learning","Linc","Kinzie Campbell","Math",0.4
+"Single-user 2hr learning","Linc","Kinzie Campbell","Reading",0.8049999999999999
+"Sports Academy: Lakeway","L1","Jay Lever","Language",0.92
+"Sports Academy: Lakeway","L1","Jay Lever","Science",
+"Sports Academy: Lakeway","L1","Zane Rogers","Language",0.84
+"Sports Academy: Lakeway","L1","Zane Rogers","Math",0.8675
+"Sports Academy: Lakeway","L1","Zane Rogers","Reading",0.9233333333333333
+"Sports Academy: Lakeway","L2","Aksel Jensen","Math",
+"Sports Academy: Lakeway","L2","Aksel Jensen","Reading",

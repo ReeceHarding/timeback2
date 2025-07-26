@@ -1,0 +1,26 @@
+{
+  "id": "test_visitor_123",
+  "sessionId": "test_session_456",
+  "device": {
+    "type": "desktop",
+    "os": "macOS",
+    "browser": "Chrome"
+  },
+  "behavior": {
+    "scrollDepth": 75,
+    "clicksCount": 5,
+    "timeOnPage": {
+      "/": 120
+    }
+  },
+  "sessionHistory": [
+    {
+      "sessionId": "test_session_456",
+      "timestamp": "2025-07-26T04:45:01.875Z",
+      "eventsCount": 1,
+      "heatmapPoints": 0
+    }
+  ],
+  "totalSessions": 1,
+  "lastUpdated": "2025-07-26T04:45:01.875Z"
+}

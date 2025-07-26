@@ -1,0 +1,256 @@
+﻿"Level","Subject","Student","Age Grade","Lowest Unmastered Grade","Grade Gap","Count"
+"L1","Language","Aiden Nethercott",3,2,-1,1
+"L1","Language","Brooklyn Allred",4,3,-1,1
+"L1","Language","Eastwood Washburn",3,2,-1,1
+"L1","Language","Emori McDaniel",4,2,-2,1
+"L1","Language","Jack Wesley Henry",4,3,-1,1
+"L1","Language","Jay Lever",4,1,-3,1
+"L1","Language","Joanna Victorian",4,3,-1,1
+"L1","Language","Joseph Strangio",3,2,-1,1
+"L1","Language","Juan Diego Ortega",4,3,-1,1
+"L1","Language","Meela Campbell",4,3,-1,1
+"L1","Language","Omar Ibarra",4,2,-2,1
+"L1","Language","Ryan Porto",4,3,-1,1
+"L1","Language","Zane Rogers",4,3,-1,1
+"L1","Language","Zenon Zaidi",4,3,-1,1
+"L2","Language","Airi Elliott",5,2,-3,1
+"L2","Language","Alannah Brie Carrion",5,4,-1,1
+"L2","Language","Alessandra Greco",5,2,-3,1
+"L2","Language","Beau Stern",4,2,-2,1
+"L2","Language","Beckett Stares",4,3,-1,1
+"L2","Language","Bobbi Brown",6,4,-2,1
+"L2","Language","Chloe Sperb Machado Neto",6,4,-2,1
+"L2","Language","Comerson Allen",6,1,-5,1
+"L2","Language","Connor Cason",5,4,-1,1
+"L2","Language","Dario Poyatos Ramos",6,5,-1,1
+"L2","Language","Felix Cole",6,5,-1,1
+"L2","Language","Gia Arcieri Gaston",6,2,-4,1
+"L2","Language","Helio Ortiz",5,3,-2,1
+"L2","Language","Jayden Wallace",6,4,-2,1
+"L2","Language","Johnny Darcy",6,5,-1,1
+"L2","Language","Jovani Hernandez",5,3,-2,1
+"L2","Language","Kai Lever",5,4,-1,1
+"L2","Language","Kane Shaw",5,3,-2,1
+"L2","Language","Knox Martin Wheeler",5,4,-1,1
+"L2","Language","Landen Goikhman",6,3,-3,1
+"L2","Language","Lily Gray",6,5,-1,1
+"L2","Language","Lucas Sanner",6,5,-1,1
+"L2","Language","Marcus Fuentes",6,4,-2,1
+"L2","Language","Nehvin Patel",6,4,-2,1
+"L2","Language","Orion Campbell",7,5,-2,1
+"L2","Language","Ozzie Lowe",5,4,-1,1
+"L2","Language","Raegan Middleton",6,5,-1,1
+"L2","Language","Sonia Doyle",6,3,-3,1
+"L2","Language","Sully Stares",6,3,-3,1
+"L2","Language","Sylvi Hagman",6,4,-2,1
+"L2","Language","Vayda Hendle",5,3,-2,1
+"L2","Language","Xavier Siddall",5,4,-1,1
+"L3","Language","Aoife Moore",7,6,-1,1
+"L3","Language","Ava Rosellini",7,6,-1,1
+"L3","Language","Benny Valles",8,7,-1,1
+"L3","Language","Dash Dowell",8,6,-2,1
+"L3","Language","Jet Butterworth",7,3,-4,1
+"L3","Language","Jude Hock",7,6,-1,1
+"L3","Language","Kanhai Shah",8,4,-4,1
+"L3","Language","Mayli McWaters",8,1,-7,1
+"L3","Language","Oliver McFadden",8,5,-3,1
+"L3","Language","Penny Marty",7,6,-1,1
+"L3","Language","Seaenah Starr Tolman",7,2,-5,1
+"L3","Language","Sydney Barba",8,7,-1,1
+"L3","Language","Tatiana Lynn Carrion",7,6,-1,1
+"L3","Language","Townes Van Zandt, Jr",7,3,-4,1
+"Linc","Language","Athena Lonsdale",2,1,-1,1
+"L1","Math","Brooklyn Allred",4,3,-1,1
+"L1","Math","D'sean Harden II",4,3,-1,1
+"L1","Math","Eastwood Washburn",3,2,-1,1
+"L1","Math","Emori McDaniel",4,2,-2,1
+"L1","Math","Jack Wesley Henry",4,3,-1,1
+"L1","Math","Jay Lever",4,2,-2,1
+"L1","Math","Joanna Victorian",4,2,-2,1
+"L1","Math","Joseph Strangio",3,1,-2,1
+"L1","Math","Juan Diego Ortega",4,3,-1,1
+"L1","Math","Kameron Smith",3,1,-2,1
+"L1","Math","Meela Campbell",4,3,-1,1
+"L1","Math","Oliver Overton",4,3,-1,1
+"L1","Math","Omar Ibarra",4,3,-1,1
+"L1","Math","Shepherd Rogers Mora",4,3,-1,1
+"L1","Math","Zane Rogers",4,3,-1,1
+"L1","Math","Zenon Zaidi",4,3,-1,1
+"L2","Math","Airi Elliott",5,3,-2,1
+"L2","Math","Alannah Brie Carrion",5,3,-2,1
+"L2","Math","Alessandra Greco",5,1,-4,1
+"L2","Math","Beau Stern",4,3,-1,1
+"L2","Math","Beckett Stares",4,3,-1,1
+"L2","Math","Bobbi Brown",6,3,-3,1
+"L2","Math","Cami Aguilar",5,3,-2,1
+"L2","Math","Chloe Sperb Machado Neto",6,3,-3,1
+"L2","Math","Comerson Allen",6,1,-5,1
+"L2","Math","Connor Cason",5,4,-1,1
+"L2","Math","Dario Poyatos Ramos",6,5,-1,1
+"L2","Math","Ellen Meegan",5,4,-1,1
+"L2","Math","Gia Arcieri Gaston",6,2,-4,1
+"L2","Math","Helio Ortiz",5,3,-2,1
+"L2","Math","Jason Montagna",5,4,-1,1
+"L2","Math","Johnny Darcy",6,5,-1,1
+"L2","Math","Jovani Hernandez",5,3,-2,1
+"L2","Math","Juliana Strangio",5,3,-2,1
+"L2","Math","Kai Lever",5,3,-2,1
+"L2","Math","Kane Shaw",5,3,-2,1
+"L2","Math","Knox Martin Wheeler",5,4,-1,1
+"L2","Math","Landen Goikhman",6,5,-1,1
+"L2","Math","Lily Gray",6,5,-1,1
+"L2","Math","Marcus Fuentes",6,3,-3,1
+"L2","Math","Nehvin Patel",6,3,-3,1
+"L2","Math","Orion Campbell",7,4,-3,1
+"L2","Math","Ozzie Lowe",5,4,-1,1
+"L2","Math","Raegan Middleton",6,4,-2,1
+"L2","Math","Rocco Benetti",5,4,-1,1
+"L2","Math","Scarlett Hamaoui",5,4,-1,1
+"L2","Math","Sonia Doyle",6,3,-3,1
+"L2","Math","Stone Meyers",6,3,-3,1
+"L2","Math","Sylvi Hagman",6,4,-2,1
+"L2","Math","Torrey Smith",5,1,-4,1
+"L2","Math","Vayda Hendle",5,3,-2,1
+"L2","Math","Xavier Siddall",5,4,-1,1
+"L3","Math","Aoife Moore",7,4,-3,1
+"L3","Math","Ava Rosellini",7,5,-2,1
+"L3","Math","Bennett Morris",7,6,-1,1
+"L3","Math","Benny Valles",8,6,-2,1
+"L3","Math","Dash Dowell",8,4,-4,1
+"L3","Math","Jet Butterworth",7,4,-3,1
+"L3","Math","Kanhai Shah",8,5,-3,1
+"L3","Math","Mason Rosellini",7,6,-1,1
+"L3","Math","Pasquale Greco",7,1,-6,1
+"L3","Math","Penny Marty",7,6,-1,1
+"L3","Math","Phin Parrott",8,7,-1,1
+"L3","Math","Roarke Radia",7,6,-1,1
+"L3","Math","Ross Margraves",8,7,-1,1
+"L3","Math","Seaenah Starr Tolman",7,1,-6,1
+"L3","Math","Tatiana Lynn Carrion",7,6,-1,1
+"L3","Math","Townes Van Zandt, Jr",7,3,-4,1
+"L3","Math","Zayen Szpitalak",8,6,-2,1
+"L4.1","Math","Maria Edison",9,8,-1,1
+"Linc","Math","Ginny Gray",3,2,-1,1
+"L1","Reading","D'sean Harden II",4,3,-1,1
+"L1","Reading","Eastwood Washburn",3,1,-2,1
+"L1","Reading","Hayley Wade",4,1,-3,1
+"L1","Reading","Hendrix Smith",4,3,-1,1
+"L1","Reading","Jack Wesley Henry",4,3,-1,1
+"L1","Reading","Jay Lever",4,2,-2,1
+"L1","Reading","Joanna Victorian",4,3,-1,1
+"L1","Reading","Joseph Strangio",3,1,-2,1
+"L1","Reading","Juan Diego Ortega",4,3,-1,1
+"L1","Reading","Kameron Smith",3,1,-2,1
+"L1","Reading","Kira Fuerst",4,3,-1,1
+"L1","Reading","Meela Campbell",4,3,-1,1
+"L1","Reading","Omar Ibarra",4,2,-2,1
+"L1","Reading","Zane Rogers",4,3,-1,1
+"L2","Reading","Airi Elliott",5,2,-3,1
+"L2","Reading","Alessandra Greco",5,1,-4,1
+"L2","Reading","Beckett Stares",4,3,-1,1
+"L2","Reading","Bobbi Brown",6,4,-2,1
+"L2","Reading","Chloe Sperb Machado Neto",6,4,-2,1
+"L2","Reading","Comerson Allen",6,1,-5,1
+"L2","Reading","Connor Cason",5,4,-1,1
+"L2","Reading","Gia Arcieri Gaston",6,3,-3,1
+"L2","Reading","Helio Ortiz",5,3,-2,1
+"L2","Reading","Horty Puddlefoot",5,3,-2,1
+"L2","Reading","Jovani Hernandez",5,3,-2,1
+"L2","Reading","Juliana Strangio",5,4,-1,1
+"L2","Reading","Kai Lever",5,3,-2,1
+"L2","Reading","Kaiden Szpitalak",5,4,-1,1
+"L2","Reading","Kane Shaw",5,3,-2,1
+"L2","Reading","Knox Martin Wheeler",5,3,-2,1
+"L2","Reading","Landen Goikhman",6,3,-3,1
+"L2","Reading","Marcus Fuentes",6,3,-3,1
+"L2","Reading","Nehvin Patel",6,3,-3,1
+"L2","Reading","Ozzie Lowe",5,4,-1,1
+"L2","Reading","Raegan Middleton",6,5,-1,1
+"L2","Reading","Sonia Doyle",6,3,-3,1
+"L2","Reading","Stone Meyers",6,2,-4,1
+"L2","Reading","Sully Stares",6,4,-2,1
+"L2","Reading","Sylvi Hagman",6,5,-1,1
+"L2","Reading","Vayda Hendle",5,3,-2,1
+"L3","Reading","Aheli Shah",8,7,-1,1
+"L3","Reading","Ava Rosellini",7,6,-1,1
+"L3","Reading","Dash Dowell",8,4,-4,1
+"L3","Reading","Jet Butterworth",7,4,-3,1
+"L3","Reading","Kanhai Shah",8,4,-4,1
+"L3","Reading","Phin Parrott",8,7,-1,1
+"L3","Reading","Seaenah Starr Tolman",7,1,-6,1
+"L3","Reading","Townes Van Zandt, Jr",7,4,-3,1
+"L2","Science","Alannah Brie Carrion",5,4,-1,1
+"L2","Science","Cami Aguilar",5,4,-1,1
+"L2","Science","Connor Cason",5,4,-1,1
+"L2","Science","Diana Kostov",5,4,-1,1
+"L2","Science","Edgar Shinar",5,4,-1,1
+"L2","Science","Felix Cole",6,5,-1,1
+"L2","Science","Jason Montagna",5,4,-1,1
+"L2","Science","Johnny Darcy",6,5,-1,1
+"L2","Science","Kaiden Szpitalak",5,4,-1,1
+"L2","Science","Landen Goikhman",6,4,-2,1
+"L2","Science","Lily Gray",6,5,-1,1
+"L2","Science","Lucas Sanner",6,4,-2,1
+"L2","Science","Orion Campbell",7,6,-1,1
+"L2","Science","Raegan Middleton",6,5,-1,1
+"L2","Science","Sylvi Hagman",6,5,-1,1
+"L2","Science","Xavier Siddall",5,4,-1,1
+"L3","Science","Aheli Shah",8,7,-1,1
+"L3","Science","Aoife Moore",7,4,-3,1
+"L3","Science","Ava Rosellini",7,4,-3,1
+"L3","Science","Bennett Morris",7,6,-1,1
+"L3","Science","Benny Valles",8,4,-4,1
+"L3","Science","Gus Castillo",8,7,-1,1
+"L3","Science","Jude Hock",7,6,-1,1
+"L3","Science","Mason Rosellini",7,6,-1,1
+"L3","Science","Penny Marty",7,4,-3,1
+"L3","Science","Roarke Radia",7,5,-2,1
+"L3","Science","Ross Margraves",8,7,-1,1
+"L3","Science","Sydney Barba",8,6,-2,1
+"L3","Science","Tatiana Lynn Carrion",7,6,-1,1
+"L3","Science","Zayen Szpitalak",8,7,-1,1
+"L4.1","Science","Maria Edison",9,8,-1,1
+"L1","Social Studies","Evelyn Gabler",5,4,-1,1
+"L1","Social Studies","Nate Evans",5,4,-1,1
+"L2","Social Studies","Aksel Jensen",6,4,-2,1
+"L2","Social Studies","Armin Rouwet",5,4,-1,1
+"L2","Social Studies","Asha Nagar",6,5,-1,1
+"L2","Social Studies","Bella Barba",6,4,-2,1
+"L2","Social Studies","Blake Flores",6,5,-1,1
+"L2","Social Studies","Dario Poyatos Ramos",6,4,-2,1
+"L2","Social Studies","Eddie Margain-Junco",6,5,-1,1
+"L2","Social Studies","Edgar Shinar",5,4,-1,1
+"L2","Social Studies","Electra Green",6,4,-2,1
+"L2","Social Studies","Ellen Meegan",5,4,-1,1
+"L2","Social Studies","Felix Cole",6,4,-2,1
+"L2","Social Studies","Horty Puddlefoot",5,4,-1,1
+"L2","Social Studies","Jason Montagna",5,4,-1,1
+"L2","Social Studies","Johnny Darcy",6,4,-2,1
+"L2","Social Studies","Kaiden Szpitalak",5,4,-1,1
+"L2","Social Studies","Krish Bhakta",6,5,-1,1
+"L2","Social Studies","Lavender Marrero",5,4,-1,1
+"L2","Social Studies","Lily Gray",6,4,-2,1
+"L2","Social Studies","Lucas Sanner",6,4,-2,1
+"L2","Social Studies","Nadine Romman",5,4,-1,1
+"L2","Social Studies","Orion Campbell",7,4,-3,1
+"L2","Social Studies","Parker Carlson",6,4,-2,1
+"L2","Social Studies","Rania Caberwal",6,5,-1,1
+"L2","Social Studies","Rocco Benetti",5,4,-1,1
+"L2","Social Studies","Shepperd Pfiester",6,5,-1,1
+"L2","Social Studies","Sylvi Hagman",6,4,-2,1
+"L2","Social Studies","Xavier Siddall",5,4,-1,1
+"L2","Social Studies","Zaid Qunibi",6,4,-2,1
+"L3","Social Studies","Aheli Shah",8,5,-3,1
+"L3","Social Studies","Bennett Morris",7,4,-3,1
+"L3","Social Studies","Eva Mentgen",7,5,-2,1
+"L3","Social Studies","Gus Castillo",8,4,-4,1
+"L3","Social Studies","Jet Butterworth",7,4,-3,1
+"L3","Social Studies","Penny Marty",7,4,-3,1
+"L3","Social Studies","Phin Parrott",8,4,-4,1
+"L3","Social Studies","Rhys Björendahl",7,4,-3,1
+"L3","Social Studies","Roarke Radia",7,4,-3,1
+"L3","Social Studies","Sam Ratcliff",7,5,-2,1
+"L3","Social Studies","Savannah Marrero",7,4,-3,1
+"L3","Social Studies","Sydney Barba",8,4,-4,1
+"L3","Social Studies","Townes Van Zandt, Jr",7,4,-3,1
+"L3","Social Studies","Zayen Szpitalak",8,4,-4,1
